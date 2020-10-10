@@ -1,0 +1,13 @@
+{
+  "isCallbackError": true,
+  "message": "No method to call specified.",
+  "stackTrace": null,
+  "Message": "Exception of type 'Westwind.Web.CallbackException' was thrown.",
+  "Data": {},
+  "InnerException": null,
+  "TargetSite": null,
+  "StackTrace": null,
+  "HelpLink": null,
+  "Source": null,
+  "HResult": -2146233088
+}
