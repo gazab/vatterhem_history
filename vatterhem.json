@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3b4af904-7766-4035-bb93-2d518c1f9588",
+      "RowId": "84c71b8e-3bab-4aef-a03d-269caa098106",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -72,7 +72,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b29705ac-299c-4925-873d-d647180b1a27",
+      "RowId": "0d9e17c7-856b-4dbe-b4a9-14e3df86b775",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -141,7 +141,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "779647b6-207f-492c-8f66-6385f06bc748",
+      "RowId": "1a92fb7d-f45d-4621-9bfb-1f97cb89bb25",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -210,7 +210,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e338efcb-5c0d-458a-9284-c651ebd3d23d",
+      "RowId": "3aee15ff-05a4-4a43-a6b4-bc08bda63a18",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -279,7 +279,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "47dec04a-dba9-488c-aecd-3af4f70b531d",
+      "RowId": "8722c4f6-b2fd-4d62-b52f-135b17416803",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -348,7 +348,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "41521cda-d44c-473b-b722-1b62ad54df0b",
+      "RowId": "ee2cf1fc-9780-4bbc-a337-11e0e811caec",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -377,7 +377,7 @@
       "StreetNo": 36,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 523,
+      "CountInterest": 522,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Liljeholmen</span></div><div>Från Vätterns svalka till stadens puls på bara några minuter. En kombination unik för Liljeholmen. I de karaktärsfyllda områdena hittar du förutom ett brett utbud av varierade lägenheter också en stad i staden i form av livsmedelsaffär, restauranger och butiker. Kommunikationerna tar dig sedan vart du vill, oavsett...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Liljeholmen</span></div><div>Från Vätterns svalka till stadens puls på bara några minuter. En kombination unik för Liljeholmen. I de karaktärsfyllda områdena hittar du förutom ett brett utbud av varierade lägenheter också en stad i staden i form av livsmedelsaffär, restauranger och butiker. Kommunikationerna tar dig sedan vart du vill, oavsett om det är sport- eller kulturaktiviteterna på Rosenlundsområdet eller stadens utbud som lockar. För många räcker en stilla promenad utmed Vättern långt...</div><div><br></div><div><br></div><div><br></div>",
       "EndPeriodMP": "2020-10-20T23:59:59",
@@ -417,7 +417,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "84fe92b4-d037-4b71-a3d6-a7dfae4c7fd2",
+      "RowId": "2e5a0357-ede2-4aa2-809a-edde01d6c0ea",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -486,7 +486,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "49537af2-1945-4b18-81e2-27045406002a",
+      "RowId": "fa6d65d8-88b0-40a4-94a1-20ee808b4299",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -503,7 +503,7 @@
       "SeekAreaNo": 201,
       "MarketPlaceNo": 107,
       "HouseFormNo": 51,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 6068,
       "RentPerMonth": "6 068",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6809.jpg",
@@ -565,7 +565,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "74d2cdb4-84fe-43ce-9c91-ad8241351db8",
+      "RowId": "9b94aee8-556b-4bf4-b0a2-18801023f9e3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -634,7 +634,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "dbfeb7e6-f24b-496c-b9e9-0ba5cec25bb9",
+      "RowId": "9e247976-b751-454a-9837-22672f5e8f9d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -703,7 +703,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "24ad5834-ecde-436a-b316-7a961b625070",
+      "RowId": "f354580c-b63d-4978-afa1-b49c9595beb7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
