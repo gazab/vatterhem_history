@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d0bdcb9d-413c-486e-9726-0fd87a7a68c9",
+      "RowId": "caf03ad0-c019-4b7c-b57d-5b6ed832c35c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -72,7 +72,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c3dcaa45-e8cf-4c4e-9c4a-186760dc36c4",
+      "RowId": "83d03954-f940-4b3e-9b73-b5910ea97349",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -151,7 +151,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fc24fdea-664b-4636-986d-d230891e7d77",
+      "RowId": "f3c225f3-12d3-4672-8c9d-b5ec8efbb096",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -220,7 +220,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "34ef77d1-27bb-4777-b458-d774b1b65b33",
+      "RowId": "fcc3c644-4682-4edf-9e62-e1dfb34d7f74",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -289,7 +289,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d96a60ec-43e4-4990-ae65-6d85e8de4645",
+      "RowId": "deb6a0ea-659a-4026-adbf-4a25a0dde469",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -358,7 +358,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2e8250cc-0001-4c67-b4c7-6a8191eca9d8",
+      "RowId": "02a32c64-f43b-44a9-91e7-5dc56be749e8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -437,7 +437,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7a3c9811-9545-498b-b703-953b358c3533",
+      "RowId": "5a9cca3c-5a52-43b6-984e-22db4464384f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -466,14 +466,14 @@
       "StreetNo": 48,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 119,
+      "CountInterest": 121,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2020-10-29T23:59:59",
       "EndPeriodMPDateString": "2020-10-29",
-      "QueueDate": "2016-10-24T00:00:00",
-      "QueueDateString": "2016-10-24",
-      "QueuePoints": 2926,
+      "QueueDate": "2016-10-18T00:00:00",
+      "QueueDateString": "2016-10-18",
+      "QueuePoints": 2938,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-02-01",
       "DesiredFreeFrom": "2021-02-01T00:00:00",
@@ -506,7 +506,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "98fb7ac4-48b3-4559-9e04-9936a1c287a3",
+      "RowId": "02925d2a-4dfc-4a61-8017-ac6bdfb2aada",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -523,7 +523,7 @@
       "SeekAreaNo": 40,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 10381,
       "RentPerMonth": "10 381",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7316.jpg",
@@ -585,7 +585,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "caeb90ac-abe3-4f0d-9250-3bcc13d6ea70",
+      "RowId": "08fc4237-6984-41d9-aeb2-0d2a1e908665",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -664,7 +664,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "37bb5864-fb93-4d62-96b3-dc06bae5ccd2",
+      "RowId": "8e141678-f2a1-41e9-9129-2c514c6064ba",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -743,7 +743,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9f677a4e-61e4-40dc-a771-2b071d22d74a",
+      "RowId": "b5a15417-2309-47ad-bd80-c71a8a175f21",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -822,7 +822,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "eb7128b4-0a02-4281-bba4-1f6e52a62486",
+      "RowId": "f66b739b-6626-4b58-b562-c2c9512919dd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -901,7 +901,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "73bf57ff-6d3c-441b-943e-515ee967dcb3",
+      "RowId": "1863f81c-28c6-4978-8319-051f38401bdb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -980,7 +980,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7f0d2e82-29f8-4df5-a7df-094401ab65b5",
+      "RowId": "fdfc82cb-a36f-45c0-b5fd-b5e568c6942c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
