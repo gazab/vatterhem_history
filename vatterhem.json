@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e85070f0-7671-4723-bb36-40481285b01a",
+      "RowId": "7f1e790c-b8fc-425f-8243-b45a052afafb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "621f3e5e-6413-41fc-8b3b-1c4f29ae3ea6",
+      "RowId": "77a14a3c-8983-4811-8e2c-15027c17fe33",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a7f6f9e2-545f-42fd-b080-aa4b12c51bbc",
+      "RowId": "18ac421e-4e0a-4d56-994b-2fd1554e11a7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "751153e8-0132-4cec-b186-413bc057b451",
+      "RowId": "4d67618e-293a-4b3a-9f40-5e2b85e6fc39",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2f1647d1-c2b3-496e-a4b5-360294ea7298",
+      "RowId": "4161f9ee-2ab7-4016-bbd3-2043fa4c918e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 3592,
       "RentPerMonth": "3 592",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6813.jpg",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "70d4adbb-98e4-4e78-90f3-5a8d0917b905",
+      "RowId": "14e8b617-301c-41f1-abb6-1cee72e15bfb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e6c4bb12-0b5e-4431-8f6f-afc1e347373e",
+      "RowId": "8e9c393d-c70d-43e7-a191-d3f7726332a1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0e5c57bd-95b3-4d18-9220-574080e01c5d",
+      "RowId": "6b5d8c53-871e-4d51-94d4-f736151dd0d3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -585,7 +585,7 @@
       "StreetNo": 9,
       "StreetChar": "B",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 178,
+      "CountInterest": 179,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2020-11-11T23:59:59",
@@ -625,7 +625,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9ae6f012-f1ea-4328-9e73-664171484af6",
+      "RowId": "5adf8272-ae62-41ce-9540-8358d18c5301",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -694,7 +694,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3bf034f9-51d8-4070-9dd2-fb65544d2a63",
+      "RowId": "7c050c19-7148-488d-9d48-8ce516cdd490",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -773,7 +773,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ce580952-f0a4-4830-bf70-c12e745c8554",
+      "RowId": "52503a1b-631d-4bc5-9e82-a5bf2437ab94",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -842,7 +842,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "96c4e1af-da3b-417c-b8ba-eaef87be1001",
+      "RowId": "da806712-1800-4492-a030-d1e20a5a0b4b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -921,7 +921,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fbc4ea6d-aa63-4696-b399-13faf355071f",
+      "RowId": "41a6d417-9ef6-4caf-9acc-b60776ad1c81",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -990,7 +990,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fb1fee0f-61e9-41c7-b811-cc782e62807a",
+      "RowId": "6e0d81aa-2f39-47bc-960a-61ceda82b727",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -1059,7 +1059,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6386fdcf-81b3-441a-a763-4608767d416f",
+      "RowId": "92a68cd0-95ec-4817-b8b1-4b73d4f3009c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -1138,7 +1138,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "34f74f75-4379-44b9-a8fd-275454855e0a",
+      "RowId": "6fec79e4-c210-40b2-bb88-3e49be99cfa8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -1155,7 +1155,7 @@
       "SeekAreaNo": 115,
       "MarketPlaceNo": 107,
       "HouseFormNo": 51,
-      "PropertyNo": 1,
+      "PropertyNo": 5,
       "RentPerMonthSort": 6729,
       "RentPerMonth": "6 729",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6738.jpg",
@@ -1217,7 +1217,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "af5c1abd-2839-4f77-9999-537fdac2d110",
+      "RowId": "7b9d587d-2004-499e-8770-f858a3242ea9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -1296,7 +1296,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "284ef1e3-d9c5-417b-95ce-59e539abab0f",
+      "RowId": "15115e3c-efb4-4fa3-8e82-6dc8cb9e150e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -1313,7 +1313,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 8396,
       "RentPerMonth": "8 396",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7147.jpg",
@@ -1375,7 +1375,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4701ee3f-806e-4161-b039-5eb7178c0a5c",
+      "RowId": "e440f3d6-1f3f-4454-a7e0-110629b04f89",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1444,7 +1444,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c2f1e831-9615-46be-ba68-47fb40706920",
+      "RowId": "d73164f4-ea59-469a-a432-135c6f67c107",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1513,7 +1513,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "55fc85b9-6726-449e-9bb0-646531746f83",
+      "RowId": "a5c501a6-0258-4081-8823-394d0a7a2f34",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1592,7 +1592,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ae3fd97d-f3da-4b9e-aa32-5ce2c96bbb9a",
+      "RowId": "fa11efc4-7920-4314-9a67-8bf334c94889",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1671,7 +1671,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "50e8eb67-e7d7-4d70-8d09-07bb4863fbe2",
+      "RowId": "e8ae17a8-0f2e-406e-baea-127ab1d70b75",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1688,7 +1688,7 @@
       "SeekAreaNo": 40,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 7786,
       "RentPerMonth": "7 786",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7372.jpg",
@@ -1750,7 +1750,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "df321e5b-3008-47dc-ab23-9ce42905d87b",
+      "RowId": "e6d9ed1a-f172-4754-9cef-82505e70b4ec",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1767,7 +1767,7 @@
       "SeekAreaNo": 40,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 9048,
       "RentPerMonth": "9 048",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7372.jpg",
@@ -1829,7 +1829,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8488fe8c-b1bf-4dd6-8b6c-2010329a5292",
+      "RowId": "9a3eb7a4-a810-4041-8f55-9747b5f3de62",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1858,7 +1858,7 @@
       "StreetNo": 11,
       "StreetChar": "E",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 23,
+      "CountInterest": 24,
       "FirstInfoTextShort": "<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\"><span style=\"font-size: large;\">Välkommen till Samset!</span><span style=\"font-size: 12pt;\"><o:p></o:p></span></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-weight: bold;\"><span style=\"line-height: 120%;\">Det nya bostadsområdet på höjderna väster om Jönköping har fått sitt namn efter Samsets gård som har rötter...",
       "FirstInfoText": "<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\"><span style=\"font-size: large;\">Välkommen till Samset!</span><span style=\"font-size: 12pt;\"><o:p></o:p></span></span></p>\n\n<p class=\"MsoNormal\"><span style=\"font-weight: bold;\"><span style=\"line-height: 120%;\">Det nya bostadsområdet på höjderna väster om Jönköping har fått sitt namn efter Samsets gård som har rötter till­baka till slutet av 1700-talet. </span><span style=\"line-height: 120%;\">På motsatt håll ligger en annan, ännu större egendom, Åsens gård. Dess rötter går ännu längre tillbaka i tiden. Den nuvarande, pampiga, huvudbyggnaden är från 1700-talets slut.</span></span></p>\n\n<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\">Bostadsområdet ligger naturskönt mellan de två går­darna, en del av marken brukas ännu. Här finns vacker och promenadvänlig natur. En löv­skogsklädd kulle höjer sig bakom bostadsområdet. På vårarna är vitsippsprakten överväldigande och på sensommar och höst hittar man svamp. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\">Vill man fortsätta norrut leder stigarna mot ridklubben i Klämmestorp. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\">Åt andra hållet kommer man till Vattenlednings­parken med många och långa strövstigar och storslagen utsikt över hela Södra Vätterbygden. Stadsparken och Södra Vätterbygdens folkhögskola finns också på gångavstånd. På cykelavstånd hittar vi Axamo badplats – en av kommunens finaste badsjöar. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"line-height: 120%; font-weight: bold;\">Närmaste bostadsområden är Mariebo, Sveahäll och Dalvik – det sista med centrum med affärer och annan service. På själva området finns nya skolor. <o:p></o:p></span></p>\n\n<p class=\"MsoNormal\"><span style=\"line-height: 120%;\"><span style=\"font-weight: bold;\">Med buss tar du dig enkelt ner till Jönköpings centrum.</span><span style=\"font-weight: bold; font-size: 12pt;\"><o:p></o:p></span></span></p>",
       "EndPeriodMP": "2020-11-15T23:59:59",
