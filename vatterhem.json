@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "24816e88-3930-4f66-9704-0fc59ad6737c",
+      "RowId": "25fd784d-52f8-4e9c-b7b9-704fa628db1e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e001dfcb-d334-4cf5-97e6-951ae32c2d33",
+      "RowId": "8b1dff30-720e-4b67-9ab7-687bb321e701",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -111,7 +111,7 @@
       "StreetNo": 99,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 146,
+      "CountInterest": 147,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2020-11-17T23:59:59",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c519c75a-bc72-46de-8362-36697bfff10d",
+      "RowId": "2e9062c5-8be0-436f-8971-289a41e11dc3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c7bd46d6-14f5-4b62-a008-5047d0580472",
+      "RowId": "74be0f65-0bd9-43d6-9792-3d549658736e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c07b1505-4c0b-456a-b053-6ede446a4a7e",
+      "RowId": "dcdf4029-8bc7-4326-9297-3787b1a6ec26",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b7c35dc2-71e4-4b56-afa8-777e0ee11e5f",
+      "RowId": "8637d6eb-f86d-4dbf-94de-1ef2148d3e71",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -415,7 +415,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 13050,
       "RentPerMonth": "13 050",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "15482f76-bc04-4e87-b655-00db9c477f69",
+      "RowId": "6cd3deaa-20f1-4367-8782-1da1608684c2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c02d3316-4923-428b-8a78-b33375f373be",
+      "RowId": "5d661b7e-aa1f-41be-8895-692a7eee90c2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5dd45506-8f30-4c92-af41-c4cb1f1ec60e",
+      "RowId": "96713867-a34c-4442-a8c3-9aab0ac95f26",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6b2a37b1-d02a-4586-b083-b8ed4de03171",
+      "RowId": "7b1d92f1-02eb-470c-9f42-8477bd1ab67d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fff666be-c39e-47c8-8779-ab6b6f72c395",
+      "RowId": "9b16042d-e9bf-4187-9e1d-2f3b7631a4d6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -822,7 +822,7 @@
       "StreetNo": 16,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 10,
+      "CountInterest": 11,
       "FirstInfoTextShort": "<div>Vackra Ekhagen kombinerar närheten till Bondbergets naturreservat med milsvid utsikt över Vättern. Nära till stan och A6-området oavsett om du väljer att gå, cykla, ta bussen eller bilen. Järabacken, naturstigarna, idrottsplats med mera ger området en aktiv profil som passar för alla åldrar.</div><div><br></div><div><br></div><div><br></div><div><br></div>",
       "FirstInfoText": "<div>Vackra Ekhagen kombinerar närheten till Bondbergets naturreservat med milsvid utsikt över Vättern. Nära till stan och A6-området oavsett om du väljer att gå, cykla, ta bussen eller bilen. Järabacken, naturstigarna, idrottsplats med mera ger området en aktiv profil som passar för alla åldrar.</div><div><br></div><div><br></div><div><br></div><div><br></div>",
       "EndPeriodMP": "2020-11-19T23:59:59",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7d562484-9246-450a-8211-1daa210c9d50",
+      "RowId": "110f7f16-89e7-49a1-b76f-0438743ea17c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
