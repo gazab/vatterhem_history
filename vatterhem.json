@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "94de1d62-7a41-425d-b7f7-165f5bd7c2a1",
+      "RowId": "dfb5d51e-4a05-4345-9fba-20b450d9ffd9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1fcc54a4-ee37-4329-8ba3-1e4933b70ab3",
+      "RowId": "f0db9659-de91-42d8-a296-424c220c12a0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7bfe7f9d-63f0-4c13-a997-04aae61f7a36",
+      "RowId": "4e171105-b4ef-41d0-99c9-0a500cb31018",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -178,7 +178,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 3668,
       "RentPerMonth": "3 668",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6772.jpg",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8c20e52a-673b-494c-9003-656df8b1456c",
+      "RowId": "5e9d817d-39f1-4dfc-b9b5-4fb27dadb0f2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ea50ea62-9f26-4466-97a7-aeca5305c36a",
+      "RowId": "befcb4a5-7792-4ed5-9929-df684cc1be9c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7a72de70-9458-4a72-915b-bb657ed752dd",
+      "RowId": "29f761ca-0e51-4acf-bf5f-bfaa123a4d30",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4a2c99fa-f7cb-48d1-92b4-16e2f308d13f",
+      "RowId": "f85ae533-d2ff-440b-a869-08a20f82f3cb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -494,7 +494,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 3498,
       "RentPerMonth": "3 498",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6136.jpg",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4a2e58d6-9c18-41c2-8cda-0f067f107114",
+      "RowId": "fb55452d-f8a6-4fb3-87de-57ccf7c19f89",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "dac9e12f-48a2-4dfa-980f-9a8ba7da5368",
+      "RowId": "b158d5b5-cad3-40b5-b869-3d2c1c47bdbe",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -664,7 +664,7 @@
       "StreetNo": 2,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 540,
+      "CountInterest": 541,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2020-11-25T23:59:59",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "82aa151b-851b-4259-bd03-c647290bfd6d",
+      "RowId": "80ecf073-4466-4caa-817c-65f5828b1832",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "182222ff-c8ea-4675-ba3d-547d1a19b7fb",
+      "RowId": "ff7e7889-2b80-45b7-89ba-9001113077aa",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -810,7 +810,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 13446,
       "RentPerMonth": "13 446",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e8950fa7-5d15-4ea1-8cf9-395a3dc0bf5b",
+      "RowId": "c1844d41-f789-4f0c-9d45-8871c0c1f629",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -889,7 +889,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 8871,
       "RentPerMonth": "8 871",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ba12a37f-a0bf-4b8e-843d-f955470ff66e",
+      "RowId": "bc001b0f-c15d-42ab-bb29-accb5957bc86",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b5c49a2d-2539-4ffc-8cfc-828464ea4b62",
+      "RowId": "b610132a-324d-4e33-9484-50b4691d4cf4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e27bf3ee-d77d-4851-9282-ae15cf47b08a",
+      "RowId": "cfcfda0f-6764-4f2a-ad48-c51a1b44486b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c5b07f65-6485-40f2-aeae-cf3cd8f2d176",
+      "RowId": "6f0f722e-20c0-4a02-ad36-a534651b2a36",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
