@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "48e23673-04d7-44b4-b51f-13f5b74bcc35",
+      "RowId": "00c26590-eeb2-4460-9870-a3f587eb93e9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3bd71045-c7cc-46ad-800a-27ef57ec9236",
+      "RowId": "df81d5de-71fe-48af-bf6f-036a2b93e7e8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 4698,
       "RentPerMonth": "4 698",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM5946.jpg",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d8364b5a-01c9-4dbd-9f40-34dbe4364643",
+      "RowId": "abae9c73-625f-4529-9a81-608c835bb22d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "570376be-64d9-4153-8731-afbc1accb43d",
+      "RowId": "0d17d060-9a11-4a13-8ac7-00763308fe14",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -257,7 +257,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 4495,
       "RentPerMonth": "4 495",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6776.jpg",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "99837fe1-4890-441a-a385-f4b17dc2d5f3",
+      "RowId": "e425556f-822e-4da2-967c-1c1a9cf4ff3f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f09b9115-fa9c-4e7a-a0c5-afb32e17395f",
+      "RowId": "ffc33615-79f0-4afc-b9a7-90c2551bfd23",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "08686543-1ba5-49f7-89ca-6442347a7016",
+      "RowId": "ed68b338-488b-4554-9b97-237bef7471e8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ecac7d1d-fd91-492f-94d3-6552b727decb",
+      "RowId": "590753f2-f15e-4ce9-b1a3-f646f731676a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -585,7 +585,7 @@
       "StreetNo": 6,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 452,
+      "CountInterest": 453,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2020-11-29T23:59:59",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "717b738c-2451-4d5f-b86c-be9cef11eda2",
+      "RowId": "e0434957-d95f-4a9c-9035-22d00207b28b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "565d8589-3618-4a8a-b88c-0d58c5a71450",
+      "RowId": "1e79e9d6-efb3-41e2-88d5-46cea634c220",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fce95ac5-02a8-45ba-9c79-23f5d8cc6179",
+      "RowId": "8849d845-3568-415b-837a-4e79aeceb494",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f7952a9b-ebd8-46d1-b9a7-5a6053408755",
+      "RowId": "77addcb8-0c8c-49d5-a480-5fea66343afd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -889,7 +889,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 8241,
       "RentPerMonth": "8 241",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6972.jpg",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "876d75e9-c0d1-426a-8999-9a03afc57469",
+      "RowId": "9a6bc831-cb37-4d63-aacc-b2cc5fdd8500",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
