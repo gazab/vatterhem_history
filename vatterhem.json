@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "09cf2876-6031-447c-a931-8428a8e1641b",
+      "RowId": "dcd89b08-9203-423b-83fa-9fa9111ea120",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 4381,
       "RentPerMonth": "4 381",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM5978.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "df0b78b6-5e1e-4764-9b54-82dd7357b884",
+      "RowId": "e7c7e99b-9f26-4ab4-8298-0580ec8b43f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "945e96fe-3adf-47d8-8041-55280f1fdbf7",
+      "RowId": "a424ffcb-22b1-4df6-a75b-1c12375bf1d3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "21695578-2e4c-4877-ba07-c5882641f573",
+      "RowId": "50bec158-b62c-4da1-91b7-23b51e158e44",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8a22bc4e-a1f3-41db-873a-ac13d80ba65e",
+      "RowId": "8ed5f4ed-357a-4819-8133-5da66c039e03",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -348,7 +348,7 @@
       "StreetNo": 7,
       "StreetChar": "D",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 67,
+      "CountInterest": 68,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2020-12-10T23:59:59",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6ad63306-1315-4291-8946-6c6387b2b969",
+      "RowId": "3864d29d-7b1a-4f80-aeed-3aa0a64a03eb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3fe02229-6300-4f1b-9ef9-075dc5d2ba46",
+      "RowId": "334159a3-bad7-4e0e-85d9-0bcfdd0db9ae",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "aff796ba-6ab7-4405-bc81-56aea2361b24",
+      "RowId": "f8ac033f-ae7f-4f81-892c-5218b875da46",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -585,7 +585,7 @@
       "StreetNo": 16,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 92,
+      "CountInterest": 95,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen. Fastigheterna på Kristinedalsgatan, Solstickegatan och Ståltorpsgatan är moderna och attraktiva för boende i alla åldrar.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2020-12-10T23:59:59",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a4ca4460-621c-4819-a4a7-dcab1bb63d31",
+      "RowId": "01290ae3-84ec-4ea7-9336-962032c13657",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "94015288-f891-4b16-8c9c-dfc382aa0f2d",
+      "RowId": "809f27d4-1a3d-416a-bf19-776a0679110f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b815e745-9ad9-4291-82f9-3edcd7e417dc",
+      "RowId": "d50a4cc8-9eea-4d34-8d27-e435b069a1c1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bb2be852-b249-4e52-a11e-0c781168ccf8",
+      "RowId": "8c9b9697-2ee9-4590-a222-1a086a6a749a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3d42fb15-127b-4aa0-8dd1-c7adf7b7b1bb",
+      "RowId": "2f20f100-d8d3-44aa-9a0d-01ab456301a6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a6dc4303-eafa-4339-9231-c4c85ee89c3d",
+      "RowId": "4580bbd4-d21a-48e4-a615-9bcfaeeeea42",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -1047,7 +1047,7 @@
       "SeekAreaNo": 15,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 9067,
       "RentPerMonth": "9 067",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6765.jpg",
