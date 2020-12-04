@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8361db0e-c41a-403e-a2bf-009374d4f1e3",
+      "RowId": "1e807084-0f05-416b-a119-2a3110c9843f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4381,
       "RentPerMonth": "4 381",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM5978.jpg",
@@ -32,7 +32,7 @@
       "StreetNo": 5,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 105,
+      "CountInterest": 106,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2020-12-09T23:59:59",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "999c6628-af5e-4f2b-9aaa-2a3a97737bd8",
+      "RowId": "87b7bc68-6877-4774-8ad6-f842f32746d7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 4826,
       "RentPerMonth": "4 826",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM5955.jpg",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7ebb5eee-6509-418c-84fc-a70fb79cddc5",
+      "RowId": "e04898bf-04de-42a1-8b67-616d2d445b56",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3469e866-a852-4775-b45b-6f851663684a",
+      "RowId": "32d928a0-8ae5-4273-9898-97e905dee9e1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5d949526-0ad3-4c9d-b326-07c5f306b77d",
+      "RowId": "c1bfa9fb-2c25-43dd-b3c5-69744178c88f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "06195a96-3df5-4649-8496-edc382dd7045",
+      "RowId": "0df4706e-1f03-4031-90d8-b24b7672de6d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cf61a5c2-a1d5-43a8-91eb-73669c9d0490",
+      "RowId": "a684378e-b0e0-4a40-a1c6-29a48a0b28b0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "51845878-b6dd-4207-bd33-a0073ecbf6fa",
+      "RowId": "d7382229-633a-492e-86fb-97aede947afa",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c399a1b1-e87a-41ec-bc92-9e56f38cd1c3",
+      "RowId": "c4afbc00-7243-4e05-b84e-4ee038aeca92",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ca8ce4d7-4ffd-4e8d-89ed-5efded0aeb5f",
+      "RowId": "853d9f07-fa9c-40da-8221-3872d6c750e7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
