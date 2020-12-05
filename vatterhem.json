@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9412acf1-7e74-4fa3-b007-03881b089516",
+      "RowId": "3b96b805-5ebf-4e9e-acbc-75551d232870",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "af7101f9-f9af-4bf8-8dc4-271af3e2576a",
+      "RowId": "000cd485-2a63-4287-9af0-09a79fb95ea8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "208ed8f7-f5b9-43a8-94b3-444dbddc0b98",
+      "RowId": "f900e1ce-b9d0-4d8c-9f2e-6aa27730ec88",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -178,7 +178,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4739,
       "RentPerMonth": "4 739",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6749.jpg",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5d3af693-cd2d-41cc-947d-0293ee06515d",
+      "RowId": "a3856f5b-bf1b-482d-b94f-217d0caaa7ba",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a49f4df1-ee65-4d1e-8797-d93be21f3891",
+      "RowId": "41a19e29-26eb-4614-beb2-adca630ac74c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "99cf4e77-8df1-4e5e-aadc-e5aa1d4908a7",
+      "RowId": "2c77a5ab-1eae-4135-af80-05cd737a8c96",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7c711b52-263c-4527-b130-3242a661efe4",
+      "RowId": "ac17fb48-3189-448e-9830-3d68f35917d4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "eb98a7cd-875d-4bb6-8f48-68bed9d870cf",
+      "RowId": "40e7e220-06f4-431f-9111-1bfdd1ca37db",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -573,7 +573,7 @@
       "SeekAreaNo": 113,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 4007,
       "RentPerMonth": "4 007",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1632.jpg",
@@ -585,7 +585,7 @@
       "StreetNo": 16,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 126,
+      "CountInterest": 127,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen. Fastigheterna på Kristinedalsgatan, Solstickegatan och Ståltorpsgatan är moderna och attraktiva för boende i alla åldrar.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2020-12-10T23:59:59",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5462de07-58ed-45e4-8897-73c3b7c824ce",
+      "RowId": "23caba13-6222-4d49-90d6-1a5b0dca14d7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8d1d2e59-5a69-41c3-ae14-9eef8d4ff9c1",
+      "RowId": "2b409fff-4bae-4fed-ad6c-1f7ef5bb1887",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2c202746-3b14-4dbc-874b-a09b2821d591",
+      "RowId": "435c39e1-66a7-4e1a-a976-35f42e833c02",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fcc77218-1d9e-46d9-900f-ee826c2862ee",
+      "RowId": "40fcddd3-4dc7-4591-9a95-3a92d138df7f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "95a326bf-6be3-4578-8fcb-a08870e47309",
+      "RowId": "07c9d8cc-d63a-4dec-a8a8-19d7c9ea6b28",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "25dcd37f-4f31-4fb9-921d-885ac0197dd8",
+      "RowId": "ea27fc37-3ad7-4b03-aaf9-2cbc67d1d306",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
