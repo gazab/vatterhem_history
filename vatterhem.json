@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "be5b3593-26cc-437c-9bbc-4b68d25a5d6b",
+      "RowId": "9b473c99-eb5a-4e72-bb37-362984ee946e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "06036e40-856e-46c0-91a2-4b7ba59ac9d1",
+      "RowId": "d4cd441c-0d5d-4d6b-9744-4771eed88051",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -111,7 +111,7 @@
       "StreetNo": 12,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 345,
+      "CountInterest": 346,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen. Fastigheterna på Kristinedalsgatan, Solstickegatan och Ståltorpsgatan är moderna och attraktiva för boende i alla åldrar.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2021-01-03T23:59:59",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8beffa1b-c5d8-48b3-a063-1857698a695b",
+      "RowId": "a289cceb-4c18-4e2f-92e5-7d51a62392b1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c7b42528-c96a-48a8-a596-12b416debbb4",
+      "RowId": "6641f2c1-b862-4f1e-89f1-b620c8e4f461",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "799b2680-5d16-457f-8651-aae3de3d8b4f",
+      "RowId": "598d962d-ea14-4825-bebe-aa04188353fd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 5,
       "RentPerMonthSort": 8902,
       "RentPerMonth": "8 902",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6974.jpg",
