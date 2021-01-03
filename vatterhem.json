@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cb3df962-2689-4f78-85df-4e1ccbeef9cf",
+      "RowId": "40df2445-8641-49be-be94-16c3897d09af",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cf3fc199-a3da-4153-934d-4f631f3f65b6",
+      "RowId": "4d3a7a61-02b8-4976-b6b9-56c3f00c2fe7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0660766c-6381-4a4e-89c8-cb49a8ef8594",
+      "RowId": "e45b0988-bea0-46e9-8f79-6e1658382716",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -178,7 +178,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 7622,
       "RentPerMonth": "7 622",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7203.jpg",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9bd93fe7-0d89-44de-b980-3053bfc8d8a5",
+      "RowId": "f7997f48-2304-4278-b224-0408640522e6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -269,7 +269,7 @@
       "StreetNo": 12,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 595,
+      "CountInterest": 596,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kristinedal<br></span>I vackra Friaredalens förlängning med Vattenledningsparken och stadsparken som grannar hittar du Kristinedal. Sådär lite lagom nära citykärnan för att ha gångavstånd, men ändå undvika den där allra mest intensiva stadspulsen. Fastigheterna på Kristinedalsgatan, Solstickegatan och Ståltorpsgatan är moderna och attraktiva för boende i alla åldrar.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2021-01-03T23:59:59",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5aad057b-bece-43d7-9f0b-02e31ea53bd1",
+      "RowId": "a4e11c9f-b72f-458c-bdc3-138711797c48",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 9212,
       "RentPerMonth": "9 212",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3f4de2a2-8a19-4d01-90f5-2e686ea8d72a",
+      "RowId": "c508b4df-a66c-4a41-9ee1-b6b00efa66f5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c5ee8ccd-7dbd-4580-885e-12f48d77237b",
+      "RowId": "307b4d45-9033-4ad8-90ab-5fdade0b81e0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a53f16c2-1e1e-48cf-8cef-867918522b83",
+      "RowId": "1c53442a-6542-46f4-b5ff-c911ce4e29d5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "903280ff-d166-46f0-94a8-3bc8f9c6b115",
+      "RowId": "4faf8922-c6ae-4377-9664-982b52a8e597",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "936ce84f-ecce-4367-ae32-0660c5fe107d",
+      "RowId": "7db320c3-58f4-4da2-97c9-5c6f48a31f9e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b400fe2f-aac9-4a33-8ebe-9e1107ecbf90",
+      "RowId": "f0886fdc-aceb-49a5-ae0e-ce7cd1bd7751",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "20",
@@ -810,7 +810,7 @@
       "SeekAreaNo": 17,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 7530,
       "RentPerMonth": "7 530",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7214.jpg",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9f1a62da-9fb8-4507-9805-7673fcf3da46",
+      "RowId": "0bb68fe5-b72f-4a9f-8a09-9862a9616628",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "20",
