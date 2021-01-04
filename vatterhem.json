@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "68a617dc-8363-40b0-9a2d-4d7c78feade5",
+      "RowId": "3309bb1f-2962-47a7-92e3-e42e7d216749",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2867e06f-6bad-44ca-8f0c-12c0e84eddb3",
+      "RowId": "a52e5c51-beeb-4e69-95a6-d74226fdd923",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 7622,
       "RentPerMonth": "7 622",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7203.jpg",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5cb1fe36-7ef4-4d97-b750-723d3142dcc1",
+      "RowId": "8100a7dc-0933-435c-957d-3c5dc921c6f0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -224,13 +224,23 @@
       "SellerNote": "",
       "Properties": "9",
       "HouseForms": "0",
-      "ObjectTags": [],
+      "ObjectTags": [
+        {
+          "TagNo": 24,
+          "CompanyNo": 1,
+          "ObjectNo": "13-005-02-0004",
+          "TagText": "Lägenheten visas ej.",
+          "TagTextEng": "",
+          "TagBackgroundColor": "#1fa12f",
+          "TagTextColor": "#ffffff"
+        }
+      ],
       "GroundRent": ""
     },
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4eba4260-7e3e-471b-a3fd-5de0df50f903",
+      "RowId": "99e72ad8-0e31-4289-93ca-1a8ba12ded4c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -247,7 +257,7 @@
       "SeekAreaNo": 111,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 5843,
       "RentPerMonth": "5 843",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6201.jpg",
@@ -259,7 +269,7 @@
       "StreetNo": 33,
       "StreetChar": "A",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 448,
+      "CountInterest": 456,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2021-01-10T23:59:59",
@@ -309,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "feb4ffed-0c90-4246-b926-729b5e13e46f",
+      "RowId": "71035640-0fc7-4cdd-a09f-a3774491b668",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -338,7 +348,7 @@
       "StreetNo": 30,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 165,
+      "CountInterest": 168,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2021-01-10T23:59:59",
@@ -388,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2316dbbb-a0d3-4962-9c0f-27a09f2dc22f",
+      "RowId": "2e99ddbc-cb5c-4468-a915-84cf8b99fe2c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -467,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e99fd200-1301-4b75-be48-6b5293411c68",
+      "RowId": "0b7f701c-0f4c-4dd7-8962-65dc78d19abf",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -546,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3eab52a0-d299-42b1-9053-5c36cae8b532",
+      "RowId": "3c9f3f99-4bab-4c18-b637-62ed2c65a3b3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -625,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "72831fdc-8d8d-44a7-84c5-4911fc0f4519",
+      "RowId": "1c286c3b-02f6-4f9c-82af-0bac408f8b6c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "20",
@@ -642,7 +652,7 @@
       "SeekAreaNo": 17,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 7530,
       "RentPerMonth": "7 530",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7214.jpg",
@@ -704,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "53eb363b-314b-4534-b7f9-4713dab74968",
+      "RowId": "66baf5df-44fc-4fe5-abf9-0ea9e61bb6f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "20",
