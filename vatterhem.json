@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "35257c42-e3cd-4e22-87b3-609dab5dcc16",
+      "RowId": "3f36ec27-36c8-4484-80f8-16cd96bc6b0e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6f0b933a-f831-4080-8254-f13c02524a8e",
+      "RowId": "e8dbc38d-780d-4e20-9d92-d4f32da1e62f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d0297b3c-7361-4171-b5ac-fb4506a1ed4c",
+      "RowId": "0fe7c12a-0e57-4dc5-95ed-1d0bfb204604",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b8fffebf-a061-4d30-9111-f528da12b33b",
+      "RowId": "d8b545cb-6fa5-4ecf-93b8-a71e33018c72",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "74ed8b82-38ea-4ace-9048-ab68968f1eda",
+      "RowId": "7aa0be3b-ff6d-4b76-948d-df0ce9a27b50",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a560c708-fcd2-42da-a282-36fce294c65f",
+      "RowId": "ddf70f7f-a5e7-4ee3-be73-1b504254e142",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -415,7 +415,7 @@
       "SeekAreaNo": 201,
       "MarketPlaceNo": 107,
       "HouseFormNo": 51,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 6125,
       "RentPerMonth": "6 125",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6809.jpg",
@@ -437,7 +437,7 @@
       "QueuePoints": 0,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-05-01",
-      "DesiredFreeFrom": "2021-01-23T10:15:05.69",
+      "DesiredFreeFrom": "2021-01-23T11:00:04.9",
       "DesiredFreeFromString": "2021-01-23",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/huskvarna/oxnehaga/",
       "Latitude": "57,7738918",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5843f763-2953-43cd-863a-8e744f615971",
+      "RowId": "d3602fa6-44d0-4d91-91d8-038e48ebfe7c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
