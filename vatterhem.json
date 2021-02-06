@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "73921cef-a1e2-4dd6-98ec-16f2fa6f5f9f",
+      "RowId": "f88dadd9-56a6-4950-85bb-68cd4816c9e9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "528604a6-0629-400c-a47e-7c1fedf81762",
+      "RowId": "82d86199-02ee-46de-bb09-752577aac82f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ff6aed89-0b41-48a1-a0e5-9a43d3f213e7",
+      "RowId": "65659eba-9529-4b9c-8e5f-635226ebc6d7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1a37d18b-d488-4654-8387-46c2478614e9",
+      "RowId": "cd4b7a6f-674e-476d-877c-0d6142d92660",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "aab0412b-383e-42a7-945f-2aa811006e73",
+      "RowId": "131f9fa1-cc5b-483b-b301-74a8c84662f0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -348,7 +348,7 @@
       "StreetNo": 23,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 188,
+      "CountInterest": 189,
       "FirstInfoTextShort": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För...",
       "FirstInfoText": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För fönsterbytet höjs hyran med ca 100,-/månad.<br><br><span style=\"font-weight: bold;\">*Undantag </span>gäller för de lägenheter med en <span style=\"font-weight: bold;\">yta på mindre än 37 kvm</span>\n där vissa lägenheter har balkong, de kommer då att få en större \nbalkong men utan inglasning. De med fransk balkong samt de lägenheter \nmed en <span style=\"font-weight: bold;\">yta</span> <span style=\"font-weight: bold;\">på mindre än 27 kvm</span> förblir utan balkong. </div></div>",
       "EndPeriodMP": "2021-02-08T23:59:59",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9875c574-b766-4b34-bf7c-7872cac75814",
+      "RowId": "b867805d-69f5-4c55-9f27-32977a55cd77",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "17ec0ea8-c79c-4ebc-a1cc-78d9bad5ddb3",
+      "RowId": "dff0e13b-7610-4f22-8018-aeef4202a12d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "126be45d-0e19-436f-97aa-7bbf5487e665",
+      "RowId": "b7c8aa3b-a84d-4b6a-9630-eb1c0f473d5e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a610ec4e-2fc3-4ad1-99c6-722dc3dfaf20",
+      "RowId": "06ef0b1b-3f39-4876-b578-f4bae323353d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cb3c0675-c7e7-42aa-89f7-88157dd105eb",
+      "RowId": "67f98578-5044-4fbf-b6cd-0ba50229a921",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 4,
       "RentPerMonthSort": 13360,
       "RentPerMonth": "13 360",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8e9b009c-91a4-411c-9abb-1174f25f4628",
+      "RowId": "3a8944fc-4d8b-4a54-9ed0-12c096ffb248",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "405d3636-4313-4b87-811d-4a14e77d2c8e",
+      "RowId": "fd59dd72-617e-45ca-ae6d-65aca7f8a75d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -901,7 +901,7 @@
       "StreetNo": 40,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 154,
+      "CountInterest": 155,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2021-02-07T23:59:59",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a5303f66-93ea-49e0-bc29-163e9edb2619",
+      "RowId": "952041d9-cb9e-49e7-979b-8483bf1fe1ae",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -980,7 +980,7 @@
       "StreetNo": 62,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 73,
+      "CountInterest": 74,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2021-02-09T23:59:59",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "33a39d5a-4e0f-4b62-a000-f1ac61e37d36",
+      "RowId": "9fc48cc8-5734-4b1c-b643-d5b78da0183c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c5694899-c901-4638-a20e-9db54b771c3d",
+      "RowId": "dcbc0091-1f1c-4977-8c3e-e8b09ca76465",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
