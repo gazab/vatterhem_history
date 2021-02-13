@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2e909ec2-eb7f-4e6a-a15a-50d8e34dfa5c",
+      "RowId": "1ac97bdd-7155-4eac-b1bd-3c03d4faa9c8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8987224c-c68f-4263-bfc2-c91ed5a14836",
+      "RowId": "140bf29a-3fc3-4ba8-bab4-2f6e29800a4f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "af369cb9-bd49-48c0-b957-67a6d6198923",
+      "RowId": "016b48d1-b75d-4e74-a556-25ccd7824c8c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -190,7 +190,7 @@
       "StreetNo": 6,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 54,
+      "CountInterest": 55,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-02-18T23:59:59",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "769ee724-f533-4d31-af62-3452e6bf4dd3",
+      "RowId": "368d76d4-5c63-4fc1-a639-3e2baa3ea727",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -257,7 +257,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 3584,
       "RentPerMonth": "3 584",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM5937.jpg",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "36df5814-32a9-427e-a362-11103f480d10",
+      "RowId": "4224047b-1bc7-4402-aed1-2d53f397cc48",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1a341fe7-6da6-432d-839a-7481654d98b6",
+      "RowId": "ca37b46f-aa9f-4b40-937a-00e4496f94f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -415,7 +415,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 2821,
       "RentPerMonth": "2 821",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7224.jpg",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a28cd64e-1e09-4e79-a282-11d066c183e8",
+      "RowId": "956d298b-153e-4f7e-84cb-57f5217c612a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "562c739e-2960-4da6-93ac-9ed56230f50c",
+      "RowId": "fdb41bfb-243b-4caf-a636-372604b6f652",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2d200190-e1c3-4a69-bff1-64d1740b94ff",
+      "RowId": "473b740e-ffd0-4cbb-ac40-3371b703f49a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b806bff1-4f7e-463f-ba5f-4571d2624ecf",
+      "RowId": "87274ed0-5987-47b7-baf5-033c3129fd7f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 3586,
       "RentPerMonth": "3 586",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6140.jpg",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "67e8fdfb-3908-45b1-b22d-b94fd83e5b58",
+      "RowId": "d9a6bda2-4f2f-4eec-8771-587205a91d62",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a3314034-9604-497a-b1f7-0d31d5db7bcb",
+      "RowId": "2ca112ae-a5cc-46ce-b242-29009ccb30f0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e25e3770-638c-4f94-bb9d-6e0ce20fd82b",
+      "RowId": "9360d2df-2d05-4bda-97ba-17047d1d427d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "be7027c3-62fa-4153-bc2d-95cec505424e",
+      "RowId": "e4a0647b-cf9a-454f-8611-d777ac582c85",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "792e9b6a-07b8-4eaa-aa6d-c200dbd2deae",
+      "RowId": "949fd9f6-edb4-4414-bf20-661b12a6775c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "032b16d4-c5e9-42e2-a0c7-1a04dfe7eb87",
+      "RowId": "e1faf966-fecb-4ed8-99f2-13eb84749885",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1227,7 +1227,7 @@
       "QueuePoints": 0,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-05-01",
-      "DesiredFreeFrom": "2021-02-13T15:15:04.55",
+      "DesiredFreeFrom": "2021-02-13T15:30:04.193",
       "DesiredFreeFromString": "2021-02-13",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/huskvarna/oxnehaga/",
       "Latitude": "57,7738918",
@@ -1267,7 +1267,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "352843fd-edc6-44ed-abaf-3a250dc9b303",
+      "RowId": "de199d0f-6f80-4b89-ba0e-41864137faba",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1346,7 +1346,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "138ae211-8ba0-4f63-8684-813f3a6490fc",
+      "RowId": "745729c4-b5e2-4f1d-a95e-4daebddf9a5f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -1425,7 +1425,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a8afdaea-716d-4772-8edf-03276e545b51",
+      "RowId": "f972370e-c3d1-4236-9a9a-37ad924883e4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
