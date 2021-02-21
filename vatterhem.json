@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "66198b7f-c63b-47fc-9037-27d3985c8f15",
+      "RowId": "1fbd2361-42f6-48ec-9626-66958fa9c203",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "405327fa-b213-4875-86b5-c65ecf15ed51",
+      "RowId": "3f251996-b189-4291-bed8-778ad5b43490",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d05477ec-3b77-4c33-bd7d-1ab006394076",
+      "RowId": "e48ab943-30e3-4489-a4a4-1537597ef797",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -190,7 +190,7 @@
       "StreetNo": 9,
       "StreetChar": "D",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 67,
+      "CountInterest": 68,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2021-02-25T23:59:59",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b1f67728-3919-4ed7-9337-48ca1e699769",
+      "RowId": "2a380d9c-1d60-47fa-b369-4eab02ea77df",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e273feae-2f88-4bda-ac22-fd7cf98d10f1",
+      "RowId": "c0650a2d-587e-4c31-80f2-0629892accef",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e33f7cf2-dc62-4242-aef1-1581c02dc9c2",
+      "RowId": "54a19aaf-a6f5-4b1f-b14f-54a47af94d53",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1e457467-d0fa-415b-9457-2d1821c50a00",
+      "RowId": "6e63cc5c-1a89-4903-9a29-766eafb574da",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -494,7 +494,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 8614,
       "RentPerMonth": "8 614",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6140.jpg",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f6a6f778-c82a-40a9-b69f-165a6b8fd5f7",
+      "RowId": "6f41ad81-d14b-469d-aa63-b1cb5aabff53",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "05219ae1-0dd6-47fe-9afb-a7bebb6d92e2",
+      "RowId": "a1732e24-389b-40c0-9800-4d9ef633bc11",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "05d3a244-badd-45ae-8619-5e6f78439952",
+      "RowId": "f8cc3a35-41b0-4ada-8f8b-cdc446fe827d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0b68595c-39fc-400e-8c24-40f7431ffd33",
+      "RowId": "573663c4-ea18-4bfe-9f69-295029775ab1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -810,7 +810,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 8181,
       "RentPerMonth": "8 181",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7147.jpg",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1f92c7b6-1559-4813-bb40-30e1c3af6934",
+      "RowId": "093adaf7-ada9-4096-8a74-b687c8b61816",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
