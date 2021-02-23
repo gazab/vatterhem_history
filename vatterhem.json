@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7b6be61f-750d-4e03-abe3-3fdf30585d4f",
+      "RowId": "710c75ab-eca3-4652-8f74-39cee8fc16b6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "792a2b8e-5123-4614-8802-32a1ca5845bf",
+      "RowId": "ac968d18-3bc0-4c89-98fa-158cc5a4ff32",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -111,7 +111,7 @@
       "StreetNo": 79,
       "StreetChar": "",
       "MarketPlaceDescription": "Lottning",
-      "CountInterest": 124,
+      "CountInterest": 125,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-02-23T19:00:00",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ec0ed6ab-3778-47e9-ab28-5bb5ecd78e99",
+      "RowId": "c7ebb1e2-f34f-485d-bc2f-73e408a25af4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ae0021b4-c4b0-4ecb-9fcb-10d3d1abaf20",
+      "RowId": "292c9aa5-1605-441b-8060-ebbe20ddfa71",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -269,7 +269,7 @@
       "StreetNo": 13,
       "StreetChar": "",
       "MarketPlaceDescription": "Lottning",
-      "CountInterest": 237,
+      "CountInterest": 239,
       "FirstInfoTextShort": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För...",
       "FirstInfoText": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För fönsterbytet höjs hyran med ca 100,-/månad.<br><br><span style=\"font-weight: bold;\">*Undantag </span>gäller för de lägenheter med en <span style=\"font-weight: bold;\">yta på mindre än 37 kvm</span>\n där vissa lägenheter har balkong, de kommer då att få en större \nbalkong men utan inglasning. De med fransk balkong samt de lägenheter \nmed en <span style=\"font-weight: bold;\">yta</span> <span style=\"font-weight: bold;\">på mindre än 27 kvm</span> förblir utan balkong. </div></div>",
       "EndPeriodMP": "2021-02-23T19:00:00",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ed4b2380-44a0-4a76-aaa2-2531bd2c1573",
+      "RowId": "d6d0d8ac-d9cd-4d7a-8849-51b27a0258be",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c9d1c185-a98e-4a05-8230-2fc8c8bf0b1e",
+      "RowId": "3f571f19-6cac-459f-bdab-483cec0060d8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -415,7 +415,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 8571,
       "RentPerMonth": "8 571",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "16eca4a4-7a71-4f99-a4ce-648a93425699",
+      "RowId": "8baa0f1f-7d01-43bb-ad0c-9d1deba35954",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "12370ad5-e548-4c8e-b1d8-99df2281e782",
+      "RowId": "b0396498-fa88-48e6-bc19-650c02cbef89",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "008d6bee-9542-4454-b8cf-337aad3b251d",
+      "RowId": "1f97b734-759d-4a1c-9641-748994401454",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
