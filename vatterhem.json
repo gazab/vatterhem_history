@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "526af9cd-7267-4ad9-95e6-3b1345937e33",
+      "RowId": "4817a747-da8e-479c-8ad0-2a033282d8ba",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3acec99c-9bd0-46ce-8ec2-3ceeb8827761",
+      "RowId": "6200460e-c656-4554-ae61-7918b134f5a3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "72a265ed-3bf7-4a3e-8a4e-2da265680f16",
+      "RowId": "282c1c03-4859-4bad-a538-61253b5f9a5a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "493ebaa8-85b9-4a2e-88d1-28ff31636563",
+      "RowId": "c439d4c3-509b-4c0b-8885-af2e3f427465",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "08fc319b-0816-4011-a171-57c9c01e5945",
+      "RowId": "0c6fb33f-7085-4aa0-8912-e3806ab83c7e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8bd5cbd7-3b5f-4765-85e8-70008042b916",
+      "RowId": "92c5d934-0757-4ef5-a2b2-4cc2217cfd4b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7664dfcb-9f15-4b02-b1f9-71dcac297ff6",
+      "RowId": "7597510c-e9a1-49de-a0d3-55e3a4e5a78d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -494,7 +494,7 @@
       "SeekAreaNo": 114,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 8731,
       "RentPerMonth": "8 731",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1559.jpg",
@@ -506,7 +506,7 @@
       "StreetNo": 11,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 416,
+      "CountInterest": 417,
       "FirstInfoTextShort": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför...",
       "FirstInfoText": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför fönstret. Bibliotek, museum och Spira likaså. Till servicefunktioner som skola och dagis är det också nära och vill du sedan komplettera med lite stadsshopping är det bara att dra på sig skorna och gå ut. Lägenheterna är varierade i olika storlekar och ska du studera på Jönköpings University finns här ett antal studentlägenheter som bara är \"en promenad över bron\" bort.</p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p>",
       "EndPeriodMP": "2021-03-02T23:59:59",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0ff182db-86c6-4dbc-89e5-4fed78237547",
+      "RowId": "b5d3e0f6-d72b-453b-b829-d2e83e8a976a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d64bfbad-8623-4208-9d4e-0a2abc8256d1",
+      "RowId": "4d272512-87ab-4a1f-b109-19a73c691dc1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cf8e0cec-da54-44e5-9d87-98195129e583",
+      "RowId": "b5190070-c8b3-487b-bbb9-858fe79966d9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
