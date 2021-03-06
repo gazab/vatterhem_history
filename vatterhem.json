@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2c8b5b58-9202-46cd-8f15-a9cd86d70211",
+      "RowId": "d64d8fdb-ffef-4262-9c5d-0ec50f6baa96",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "56902027-8442-47e4-b94f-073a8cb5c05a",
+      "RowId": "64b08dbf-ff67-4015-a77e-514166f01bab",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4680,
       "RentPerMonth": "4 680",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6839.jpg",
@@ -121,7 +121,7 @@
       "QueuePoints": 3204,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-06T11:15:03.313",
+      "DesiredFreeFrom": "2021-03-06T11:45:04.323",
       "DesiredFreeFromString": "2021-03-06",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "465d6c0a-2cdd-4947-b94f-7f2f0a313c0a",
+      "RowId": "00789a33-eea0-4e1d-ad74-28faee520238",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "92e6089c-8641-4e43-bd00-0c8dfa838dcf",
+      "RowId": "5b4bf69e-5dcf-4420-b749-813035dc43e7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "61dbdb9c-9385-4916-bcc7-19f117c66fe9",
+      "RowId": "d858a963-5f9f-47ea-9507-4ac07b322529",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -348,7 +348,7 @@
       "StreetNo": 22,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 75,
+      "CountInterest": 76,
       "FirstInfoTextShort": "<span style=\"font-weight: bold;\">Balkonger och fönster på Duvgatan 10-22</span><div><br></div><div>Under första halvåret av 2021 kommer balkongerna att renoveras och alla fönster kommer att bytas ut. </div><div>För fönsterbytet höjs hyran med ca 100,-/månad, beroende på storlek på lägenhet. </div>",
       "FirstInfoText": "<span style=\"font-weight: bold;\">Balkonger och fönster på Duvgatan 10-22</span><div><br></div><div>Under första halvåret av 2021 kommer balkongerna att renoveras och alla fönster kommer att bytas ut. </div><div>För fönsterbytet höjs hyran med ca 100,-/månad, beroende på storlek på lägenhet. </div>",
       "EndPeriodMP": "2021-03-10T23:59:59",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "db4f35ae-316e-48e3-8333-84544d71441b",
+      "RowId": "f83ff3e9-ff21-4b0b-a536-53966ff64c71",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5667f349-c054-4a4d-95be-7a934b8859b6",
+      "RowId": "53eb98de-6b67-4b8c-ae8b-9426540455d2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "11d404ce-4833-4bd0-bdec-8786baba6064",
+      "RowId": "ea3d5432-9a4c-444e-b418-cba23a5c5284",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "79731f54-c21e-4126-b534-5afc8ce3407d",
+      "RowId": "2eedd337-c203-4848-aed4-18b619f46fa5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8b16368c-a630-4f18-8b47-441f7ebc0f99",
+      "RowId": "3daace3a-9650-4994-9a18-d6c54784507d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 10955,
       "RentPerMonth": "10 955",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6667.jpg",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "19129c6e-2839-48ce-a813-074e8d9176bd",
+      "RowId": "b0364df5-8feb-4109-aa79-e8720ba8aff3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "191e38eb-086e-4b76-909e-d7a74b44945e",
+      "RowId": "f1feac84-f591-4e8b-8769-4838458f18d8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7210ccf9-cd16-4ca5-8ebf-7c02ee2b69aa",
+      "RowId": "38f8d779-4958-4b07-b1c4-977992a0b8d8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "71fc3691-8bc5-45fd-8cd5-6b64045f4260",
+      "RowId": "ced8f88d-3cd2-41e4-b982-daa15fb4dc6c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6db61eca-aa7f-4215-b73b-5a55ade032d3",
+      "RowId": "f00961b0-7a81-43fa-950f-d1bbe6b2ca48",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bc96752f-0dd5-43e6-b28e-61821bf576af",
+      "RowId": "5c13156a-02c4-4876-b26f-5883eebd6e55",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
