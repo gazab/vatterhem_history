@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a3eb2e58-1b0d-453f-b503-24051aef5686",
+      "RowId": "e04dd3d1-a6f8-43d9-8d74-3804aea85fad",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "72933fee-172f-451a-89f2-8fe101c13697",
+      "RowId": "44d21073-26d0-45a9-8a1c-6a1a59f6dfe4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4680,
       "RentPerMonth": "4 680",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6839.jpg",
@@ -111,7 +111,7 @@
       "StreetNo": 54,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 155,
+      "CountInterest": 156,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-03-09T23:59:59",
@@ -121,7 +121,7 @@
       "QueuePoints": 3204,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-06T12:15:04.017",
+      "DesiredFreeFrom": "2021-03-06T12:30:04.003",
       "DesiredFreeFromString": "2021-03-06",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fbdef23a-f844-4e66-842e-ca73bf759d72",
+      "RowId": "73d12813-fb99-47fd-b86d-16b5e68b7d64",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "24f87561-8609-45bd-a3d8-2a5ac9a66399",
+      "RowId": "0d612d08-7697-422e-84ea-c8cab2fb6d28",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a6d3086e-7e96-435d-9e86-7da0fbda39fa",
+      "RowId": "a519f6d4-2400-4039-aca9-20936f71b1db",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0d083fb4-67ce-4b26-b60c-eedf60e86d8c",
+      "RowId": "351ffdcc-2337-4402-944e-b19182a5e178",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "343be457-cae9-4b06-ac45-b4f662f64ad3",
+      "RowId": "d421375d-ab4a-4964-b9ad-78eacbb119b9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d3cea624-deff-46a8-afa6-3222ef269188",
+      "RowId": "58f391ab-91fb-4e2a-84c9-62c682b73c63",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0853617d-6c08-4f6e-bc7e-9d8292b33c0f",
+      "RowId": "2fa90175-57d2-4f1f-ae37-4cb2e9011726",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "81ded937-7f3f-4c7f-bae7-502bae57349a",
+      "RowId": "63c3d690-3512-400e-9491-08d50d95906f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e33cb704-a3de-4671-82a1-6997df61a6b4",
+      "RowId": "109e11f7-e639-4c45-9322-312281647ce2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6c40c016-3ad9-4e9c-bc63-043fd56abaf4",
+      "RowId": "ce9287e3-d29e-409a-8f85-80bf3a83fe6a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a33a5bea-da4b-4991-b7c7-e5ecaf936e37",
+      "RowId": "08aa7b75-6b74-48e0-a0ec-e29c03a94ee5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8a463ab4-b92b-4c8d-ab6e-d02719e043db",
+      "RowId": "7caabec7-2acd-43ad-8465-3f27b7616210",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f6d2a92b-0030-4aed-b020-d924cbd73e1b",
+      "RowId": "6eb74146-efe8-4093-98aa-dac02bde9d7f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b2e734db-5110-4afd-b5ba-80a31e5b69fd",
+      "RowId": "27578ca2-09bb-4d3c-8287-5d4819acefaa",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
