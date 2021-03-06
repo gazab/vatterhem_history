@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "df0598ac-0131-4c10-8e4b-1df9266881c2",
+      "RowId": "dc172dcd-1e05-4790-9058-11aae1670409",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "80b3b343-903a-4c65-b9a0-09806fa4f81b",
+      "RowId": "ade52946-b68c-4fce-80b6-2e0842b60adb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -121,7 +121,7 @@
       "QueuePoints": 3204,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-06T09:15:04.267",
+      "DesiredFreeFrom": "2021-03-06T09:45:04.117",
       "DesiredFreeFromString": "2021-03-06",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "067a982b-0dd1-4997-9df4-9f1275fcd9c2",
+      "RowId": "bec74468-6cb4-465b-8cc9-540f292514b1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cb094717-c323-4420-a93d-531ce1b457d3",
+      "RowId": "319ab45f-0be3-45f4-8efd-bd827ecbe4c4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fc85a5ed-38ef-4ed2-af14-c108dc191e0e",
+      "RowId": "0a1a600d-c9bf-4795-aa74-50abb7b86418",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "94b91130-13c0-47ed-9cdf-b3128f4169cd",
+      "RowId": "67018cb2-8ec6-4451-adad-7b8a72de54bc",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bb8f3dc0-b0b2-4916-b975-e2ddb636289f",
+      "RowId": "f6e6fd0a-e9f0-46da-8607-51bf88dc5bef",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "33a02f85-ab8e-45ad-af22-cdf0032cd74e",
+      "RowId": "df823ed5-fded-456a-a630-1ad62e90aa7d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ddbffa59-2219-4866-8fe7-78a64521c5c5",
+      "RowId": "ce702a92-02ff-4c83-b2df-1b2635923b1e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "be8c7efb-eb72-4791-bdbe-02545da5511f",
+      "RowId": "79e73ebf-70c4-493e-9c14-8d7218b4156c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 10955,
       "RentPerMonth": "10 955",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6667.jpg",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "558fbcdd-0c89-432b-98f1-6bbee905b183",
+      "RowId": "ab3636ff-1dde-41ca-8c7d-9f2c261f8592",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f6cf31f8-b196-47ba-b6ca-47388c75d35b",
+      "RowId": "2068e34e-f026-4516-97f9-e826827a7652",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "572ae4cb-0592-44ea-8654-cabd7da5b69a",
+      "RowId": "3f0787a9-26d0-42cf-845a-7e3b2999dc4c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "38d460a4-d4d0-4f9a-b25e-64d5d606b696",
+      "RowId": "4806928b-5c73-48f5-8102-4a6edd0cac2b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1059,7 +1059,7 @@
       "StreetNo": 18,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 118,
+      "CountInterest": 120,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2021-03-10T23:59:59",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2fe8e889-1083-4fd6-b94e-f98946b4aad1",
+      "RowId": "a2229f16-2a5d-41ed-b375-6131374905d6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1138,7 +1138,7 @@
       "StreetNo": 18,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 70,
+      "CountInterest": 71,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2021-03-10T23:59:59",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "45cf66b7-a05f-4100-bab9-38355a0e9f53",
+      "RowId": "e492dd42-be64-45d9-84a6-cb9412421e9a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
