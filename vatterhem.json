@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "19e197db-b9fe-460b-abdd-345c4dd724d1",
+      "RowId": "7bec8a04-7b3a-4e2c-a9d5-6734b57982d0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f081d945-e473-453c-81df-41248dc7361e",
+      "RowId": "e3f5175b-ac06-4262-9f61-70cc17717207",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -121,7 +121,7 @@
       "QueuePoints": 3206,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-07T17:30:04.45",
+      "DesiredFreeFrom": "2021-03-07T18:00:05.14",
       "DesiredFreeFromString": "2021-03-07",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ebad0ac8-c5bd-4c81-8e55-dea04eeb4748",
+      "RowId": "b00ccbe1-a332-43fd-8df1-b81d484c04c3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "17f4aa2e-854f-4c9c-b4d2-196f5cbf54c7",
+      "RowId": "8f2ea27d-c230-4fa8-bdc1-ee48b511840c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8d1ba178-2232-477c-a097-2ed8d73c3923",
+      "RowId": "e90d5b1d-99f6-410c-b854-c611b8e05672",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cbe8cb0f-8cc1-4a3d-b01d-33e49f095ba7",
+      "RowId": "addc3766-b415-4982-9e93-7d82b93716ad",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d7f3a7b0-b523-44a6-86f7-495f769bab1a",
+      "RowId": "5ef21ad6-f926-447b-970b-4c926523f6f3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b48b6050-2a35-40aa-b778-bef97e21e28c",
+      "RowId": "36e064c7-69b9-4038-8b6c-f5910f02a959",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "206e7974-d6e6-4813-aaee-76cbfcea60b0",
+      "RowId": "7aa754b4-afb3-4ad4-9ea0-2ff28be57f0b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f1bbad4e-ba72-47d3-b7c8-45ef04b6feae",
+      "RowId": "a9bce44e-50e4-4a51-8744-01a1d3d118b4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 10955,
       "RentPerMonth": "10 955",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6667.jpg",
@@ -743,7 +743,7 @@
       "StreetNo": 2,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 54,
+      "CountInterest": 53,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Strandängen</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Jönköpings nyaste stadsdel har Vättern som närmsta granne. Här kan du bo i det arkitekturprisade Ormhuset eller i något av våra nio Kultur- och Gatuhus. Och expansionen på detta intressanta område lär inte ta slut där. Vill du sedan ta dig in till stan är det...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Strandängen</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Jönköpings nyaste stadsdel har Vättern som närmsta granne. Här kan du bo i det arkitekturprisade Ormhuset eller i något av våra nio Kultur- och Gatuhus. Och expansionen på detta intressanta område lär inte ta slut där. Vill du sedan ta dig in till stan är det bara 3,5 kilometer till stadskärnan. Säg den som inte vill bo där Vättern ger utsikt och rymd - där fält, skog och ängar ramar in och skyddar?</p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-03-07T23:59:59",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "82b5732b-3016-4d0a-882a-0527b8848216",
+      "RowId": "d23f69e0-268c-4c69-b856-bd9d52212164",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bca3ec68-a098-4b20-8a36-69da9e414ea2",
+      "RowId": "2bb4ef7f-e8c7-4c55-933b-7ce82ec4c56d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b046ac91-972b-4542-8f82-32ea75282263",
+      "RowId": "241828ba-6581-4885-aec5-c2806f65e3f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c59a5bbb-caf1-4a4a-8d87-b17c5eb97fef",
+      "RowId": "07e939f0-7822-4276-a8aa-49d7ea59a682",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a25c47bc-cd4e-4b9e-934a-bafff92b8fb4",
+      "RowId": "3f21af4b-85d0-4aee-9dc0-3e9e581369c5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "34b0db0a-5b2d-41d3-bff9-af1095a1a261",
+      "RowId": "2243f6e7-648c-4ff0-a230-167e35e82d68",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
