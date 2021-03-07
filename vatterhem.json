@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e572259e-58b6-46cd-954f-71f9bf72c06b",
+      "RowId": "9ceca72e-40e4-4a3c-8050-13ce3611e45e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4142d221-bc9d-4c07-ba62-496c4273b7a0",
+      "RowId": "f686cfa8-d85f-45e6-bb9d-07e63d6f5aaf",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -121,7 +121,7 @@
       "QueuePoints": 3206,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-07T13:30:03.757",
+      "DesiredFreeFrom": "2021-03-07T13:45:04.477",
       "DesiredFreeFromString": "2021-03-07",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "dec897cb-517a-43a8-8481-f63bc7f555af",
+      "RowId": "d5d70a5e-a2f9-4593-89a5-136c2252958e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "77aa624d-c1b9-4eb7-9fae-0cf9af876420",
+      "RowId": "91d8ab40-ef57-435c-b617-0f3687e3c691",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ccc0063c-ce0e-4074-a56e-dae3b326d768",
+      "RowId": "e6ba74b8-7a03-4db1-ac3d-61d0ee02e2e7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "62ca6f74-9eea-47f7-857e-50ce1ac80ba1",
+      "RowId": "d5cb6f7f-9e3c-4e17-839f-1f94bc59b5b6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "41676fe0-a2e9-4a28-8820-8fb03db8cc9c",
+      "RowId": "bd6b0c64-4fd4-44e5-b7dd-4015f8496b83",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c6795577-3adf-4163-a5a4-7eecd6b2716a",
+      "RowId": "d8d5f65c-cc21-4d00-8ae2-bef3fc791477",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -625,7 +625,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "80e6040e-b8ca-481a-a6c9-d4b79e33530e",
+      "RowId": "1bd3aa41-2f61-4d32-97e8-c160ddf20986",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -654,7 +654,7 @@
       "StreetNo": 7,
       "StreetChar": "C",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 91,
+      "CountInterest": 93,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Tenhult</span></div><div>Tenhult kombinerar landsbygdens natur med stadens närhet. Buss och tåg till Jönköping och Huskvarna går snabbt. Och för vardagens behov hittar du ett brett serviceutbud i Tenhult. Samhället erbjuder gott om rekreationsmöjligheter och ett livfullt föreningsliv. Våra lägenheter med variation i storlek och fastighetstyper...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Tenhult</span></div><div>Tenhult kombinerar landsbygdens natur med stadens närhet. Buss och tåg till Jönköping och Huskvarna går snabbt. Och för vardagens behov hittar du ett brett serviceutbud i Tenhult. Samhället erbjuder gott om rekreationsmöjligheter och ett livfullt föreningsliv. Våra lägenheter med variation i storlek och fastighetstyper finns centralt i samhället.  </div>",
       "EndPeriodMP": "2021-03-11T23:59:59",
@@ -704,7 +704,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6b5d659a-8c64-4872-b20e-40fe3a412807",
+      "RowId": "bcd6f8c0-a045-489e-8c69-60ecc97d6b79",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -783,7 +783,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6086a577-fed1-401e-b93a-c943f452eee8",
+      "RowId": "e70aeace-9af3-43fb-aa1d-0733ace68db3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -800,7 +800,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 10955,
       "RentPerMonth": "10 955",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6667.jpg",
@@ -812,7 +812,7 @@
       "StreetNo": 2,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 53,
+      "CountInterest": 54,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Strandängen</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Jönköpings nyaste stadsdel har Vättern som närmsta granne. Här kan du bo i det arkitekturprisade Ormhuset eller i något av våra nio Kultur- och Gatuhus. Och expansionen på detta intressanta område lär inte ta slut där. Vill du sedan ta dig in till stan är det...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Strandängen</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Jönköpings nyaste stadsdel har Vättern som närmsta granne. Här kan du bo i det arkitekturprisade Ormhuset eller i något av våra nio Kultur- och Gatuhus. Och expansionen på detta intressanta område lär inte ta slut där. Vill du sedan ta dig in till stan är det bara 3,5 kilometer till stadskärnan. Säg den som inte vill bo där Vättern ger utsikt och rymd - där fält, skog och ängar ramar in och skyddar?</p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-03-07T23:59:59",
@@ -862,7 +862,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bb56cf14-a735-4112-8684-63d49beb9bb0",
+      "RowId": "1bb6f16e-b1db-4ace-bb7a-872dc211678f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -941,7 +941,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "15b21847-37f5-4fdc-9444-5eb31574f5ea",
+      "RowId": "990a4944-0c05-437c-99fb-c24910488bb6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1020,7 +1020,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8c51a50b-a4f2-4b2c-b9cc-c1abbbef06c4",
+      "RowId": "894ffb9a-9e04-47ed-903a-44d84c0ce046",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1099,7 +1099,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "afbdfad7-56ce-4e94-8c2a-a955404bfcb1",
+      "RowId": "465d3237-8356-4b11-9c0a-ea6ac076b313",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1178,7 +1178,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c639e20d-8ec4-4cba-bb74-23ef852eb57d",
+      "RowId": "440dbc4d-4da3-46bb-9b33-3c19518e63f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1257,7 +1257,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f321e87d-f4b3-49d4-ad86-5cef0d6f6a1a",
+      "RowId": "766d32f3-7203-49de-8791-645fe2f6bb0b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
