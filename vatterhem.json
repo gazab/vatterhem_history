@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e63206b9-ef68-4c45-8edf-23f6d15a7430",
+      "RowId": "5f6be098-284b-4f9c-a741-089c23afef25",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4918,
       "RentPerMonth": "4 918",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0db0004b-737b-4316-ae17-46b73def8130",
+      "RowId": "97a00fda-edb9-450e-b3cc-8d6dfa370450",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -99,7 +99,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 4680,
       "RentPerMonth": "4 680",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6839.jpg",
@@ -121,7 +121,7 @@
       "QueuePoints": 3206,
       "QueuePositionCut": 5,
       "FreeFrom": "2021-06-01",
-      "DesiredFreeFrom": "2021-03-07T09:15:03.93",
+      "DesiredFreeFrom": "2021-03-07T09:45:03.87",
       "DesiredFreeFromString": "2021-03-07",
       "SeekAreaUrl": "https://vatterhem.se/jag-soker-ledigt/vara-omraden/jonkoping/raslatt/",
       "Latitude": "57,737509",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "aae058a9-ac29-4986-a27c-22d3a7685066",
+      "RowId": "b4c582a5-6284-4c44-9d68-32f493cd3d75",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "75a3cad5-3c14-47b8-b288-368077fa256d",
+      "RowId": "ac7947e4-db89-41ef-8709-6230cb816ea2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c59bb6f9-7971-44f7-a44e-b1cd9aaa1590",
+      "RowId": "1b109bce-5b63-4fb0-8ef1-76d3e7be17a0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c46f193f-15f0-4db9-82b7-98c6be2082f0",
+      "RowId": "7095b45c-28b1-4c98-a21b-3805dc21b8da",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -427,7 +427,7 @@
       "StreetNo": 15,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 108,
+      "CountInterest": 109,
       "FirstInfoTextShort": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För...",
       "FirstInfoText": "<div class=\"parent language\"><div class=\"eng\"><span style=\"font-weight: bold;\">Balkonger och fönster Banérvägen 11-29 </span></div><div class=\"eng\">2019 gjordes den gamla balkongen om till en ny större inglasad \nbalkong* i samband med detta byttes även samtliga fönster.<br><br>För balkongerna höjs hyran 2019 (efter färdigställt arbete) \nmed 305,-/månad år 1. Därefter 50,-/månad år 2 och 3.<br>För fönsterbytet höjs hyran med ca 100,-/månad.<br><br><span style=\"font-weight: bold;\">*Undantag </span>gäller för de lägenheter med en <span style=\"font-weight: bold;\">yta på mindre än 37 kvm</span>\n där vissa lägenheter har balkong, de kommer då att få en större \nbalkong men utan inglasning. De med fransk balkong samt de lägenheter \nmed en <span style=\"font-weight: bold;\">yta</span> <span style=\"font-weight: bold;\">på mindre än 27 kvm</span> förblir utan balkong. </div></div>",
       "EndPeriodMP": "2021-03-11T23:59:59",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c0b82d4c-fadb-4673-befa-63fde8444c6e",
+      "RowId": "a685d21a-0e9b-4c59-ad3a-055d8fc93536",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e191ac02-bd61-41e8-9124-484b528b38b4",
+      "RowId": "24426184-de99-4098-ac70-73d52f44bfaa",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c224c5c6-36af-4796-80a5-1267d1786b19",
+      "RowId": "b1c06b13-b152-4d4e-9927-10dd6e7ab474",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -652,7 +652,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 13360,
       "RentPerMonth": "13 360",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "af081579-9046-42cd-b15b-0f0c9d697d7d",
+      "RowId": "5040b239-14df-4187-81d8-48c6b5d060ed",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e300ee06-6419-45c8-a102-e922163385b1",
+      "RowId": "96bc29dc-0b2d-4cf5-a8b2-10784c8df676",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "854ac9a4-da0f-4a7e-9fdd-8d0a0d1a58ad",
+      "RowId": "a7dd60d0-af73-47ca-9569-3026857e8d0f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "500b765e-fdce-4faa-b7b3-82d26e67be63",
+      "RowId": "792147af-8a22-4bc7-ab0a-003d41067d14",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "51412509-2bfd-4c95-8319-b8d3abb59bd7",
+      "RowId": "96776483-e19f-4f38-954b-21069dc4e054",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "299f8a02-63ea-4cd2-a20b-6f095dcf4afa",
+      "RowId": "ae985f7d-001a-4f3c-934d-42d4a0c765fc",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e7234fb6-46f7-49e0-9cfd-569737e5e5cf",
+      "RowId": "cca19ff7-7acc-41c9-95f5-9058421a74bc",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
