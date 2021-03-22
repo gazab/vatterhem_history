@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "abcb919a-ee18-4b39-b384-90d583184e54",
+      "RowId": "d4cc01fb-9995-4238-a944-23ed2d069a2f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6145efe8-46c2-4c03-aa89-8556f5d567c0",
+      "RowId": "04bd2f6e-28f2-4e3a-8215-6f84578458bf",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -111,7 +111,7 @@
       "StreetNo": 64,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 172,
+      "CountInterest": 173,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-weight: bold;\">Välkommen till Råslätt<br></span>Väl inbäddad mellan Lockebos ängar och Lillåns dalgång hittar du Råslätt, Här trivs mångfalden, här bor Råslättsandan; välkomnande och äkta. Här finns variationer i lägenheter för både den lilla och stora familjen. Hit söker sig såväl studenter som vill bo på Jönköpings störst samlade studentområde som pensionärer som söker tryggheten och det sociala livet runt boulbanan. Råslätt har något för alla. Alltid med en tilltalande närhet till modern service och ett levande centrum. </p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><br></p>",
       "EndPeriodMP": "2021-03-23T23:59:59",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9e515472-b6db-4028-815d-3dde9f320417",
+      "RowId": "f7fe140c-9ad3-4ab6-a3f1-23a863dec167",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e903874b-a3da-4ccd-bb3a-3703519f66e3",
+      "RowId": "53f8cd9d-8105-4606-8cc6-a18a0a2d793e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9414786d-17a6-4422-b71c-127a6243f9a4",
+      "RowId": "48b74b2a-5e04-4fce-ab60-3c71769e96db",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a68c500d-fb83-44d3-898d-ffbacf464b55",
+      "RowId": "35cb9953-406b-4a10-ad0b-eedda8bfb703",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7279f4d0-c7d3-4ee6-aff4-29ce8c8ba41f",
+      "RowId": "5d0603d8-a76e-47ab-8ec1-3757278dae21",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "086aca4a-5b4a-4753-82e3-2efba6305d5a",
+      "RowId": "7bacd2db-defa-4902-8315-3f690c309118",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c8420a05-37e4-4a67-b346-5df4e32f32e1",
+      "RowId": "32555620-4127-4928-9c98-24c8b717162c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -652,7 +652,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 8123,
       "RentPerMonth": "8 123",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6971.jpg",
