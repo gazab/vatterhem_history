@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "7d29cecc-fe88-4842-b7d5-1436a78b38cd",
+      "RowId": "22fbd991-05c4-478a-8263-626803fbd29d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ae1eef07-e8c3-40a4-b27e-ac26ea180da3",
+      "RowId": "238eb07a-ae61-4f10-aff5-9a1f7b5fd146",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "07e39837-b6b1-4c1e-a1f4-21dd704a5dd5",
+      "RowId": "74a51590-09c7-4598-b613-aa19e252327f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "05946a49-9c11-4aff-ab83-3d2d40b08688",
+      "RowId": "a1512650-5074-4193-bbb3-1f859f5614a8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e978657a-8dcb-4f4a-8bdc-9755f111f600",
+      "RowId": "52e12df9-688c-4de9-bf88-12b9faead385",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1556e6a7-cc06-4042-84d6-024c1349ea02",
+      "RowId": "59c43135-ed64-4285-b13c-1f5e2c37d269",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "af21870b-9076-4fe6-836b-4077dc11ef03",
+      "RowId": "634f6247-9e7a-482c-b989-ecab050af650",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "69bf23ab-ba32-47e8-ab3c-87f031ae2b9c",
+      "RowId": "724fa960-97cc-44ac-88a6-2c9b9f5691e4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -573,7 +573,7 @@
       "SeekAreaNo": 114,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 6273,
       "RentPerMonth": "6 273",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1561.jpg",
@@ -585,7 +585,7 @@
       "StreetNo": 5,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 250,
+      "CountInterest": 251,
       "FirstInfoTextShort": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför...",
       "FirstInfoText": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför fönstret. Bibliotek, museum och Spira likaså. Till servicefunktioner som skola och dagis är det också nära och vill du sedan komplettera med lite stadsshopping är det bara att dra på sig skorna och gå ut. Lägenheterna är varierade i olika storlekar och ska du studera på Jönköpings University finns här ett antal studentlägenheter som bara är \"en promenad över bron\" bort.</p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p>",
       "EndPeriodMP": "2021-03-31T23:59:59",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0fbc2d52-9764-45be-b7f5-c47002551087",
+      "RowId": "614c7a0f-0775-44a4-84b0-d0c6b6d8f7f2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -664,7 +664,7 @@
       "StreetNo": 8,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 101,
+      "CountInterest": 102,
       "FirstInfoTextShort": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför...",
       "FirstInfoText": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför fönstret. Bibliotek, museum och Spira likaså. Till servicefunktioner som skola och dagis är det också nära och vill du sedan komplettera med lite stadsshopping är det bara att dra på sig skorna och gå ut. Lägenheterna är varierade i olika storlekar och ska du studera på Jönköpings University finns här ett antal studentlägenheter som bara är \"en promenad över bron\" bort.</p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p>",
       "EndPeriodMP": "2021-04-05T23:59:59",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "42d3b7af-b6b8-4bce-8464-cf288ef23ddf",
+      "RowId": "058e1814-125c-4f7b-a300-82df5c21aab1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6a0111c2-260c-4780-894a-b2e0eb93afb9",
+      "RowId": "b8ba72e2-2890-4375-bfd9-647232a0725d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "86f58b3f-eb03-4765-a460-5660393f4bec",
+      "RowId": "9ac56519-c08d-448a-be8c-c07e51be82cd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6118262c-ba84-4c28-b278-056795d5a4ec",
+      "RowId": "43883ae3-5e69-4d18-a67c-5411ade17690",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "928467e0-91b8-45f0-8322-43d55dba5d9d",
+      "RowId": "5701b0ec-aa63-4763-b8c5-11d2cc19d723",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
