@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0c9abc3f-10af-414f-a9ed-454a20aa40c8",
+      "RowId": "583251ce-57a9-4eec-bfe8-7441866d8adb",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "30d409ea-da32-4e81-9118-11713f0c5f46",
+      "RowId": "acc59daf-aa4b-4b0d-83e7-27198ef32f3e",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "84532fdf-f225-43ea-8fc2-7798ef7fe75b",
+      "RowId": "bb7c88d9-a637-4f41-9430-a1664d2c5bc9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "effe93d9-6e4b-444d-97fe-534b600fbd6a",
+      "RowId": "b56e38db-8747-4f1a-ade1-51019bf96ece",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d0913e60-ab97-477d-b4d7-9bbee3e08184",
+      "RowId": "98a77d3c-ab68-4ee4-90d1-292cb974400f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8d81c391-917a-45a8-b8a0-c6d5267b91bf",
+      "RowId": "ad3b256a-ad4d-4da0-9324-575ebe54b717",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "22e29eb6-83f3-4f02-b89d-07bc40d6e17c",
+      "RowId": "aef15ff1-83c3-41d6-a19c-53c5251d2b20",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -494,7 +494,7 @@
       "SeekAreaNo": 114,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 6273,
       "RentPerMonth": "6 273",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1561.jpg",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5f034230-e066-4bdc-80ea-e8532e5e41e3",
+      "RowId": "d1de9ff2-38de-454c-82f5-dfa2e44f4fb6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -585,7 +585,7 @@
       "StreetNo": 8,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 138,
+      "CountInterest": 139,
       "FirstInfoTextShort": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför...",
       "FirstInfoText": "<p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><span style=\"font-weight: bold;\">Välkommen till Kålgården </span><br>Här har staden vuxit de senaste åren. Kanske inte så  konstigt eftersom läget, med närheten till stadens utbud, är perfekt. I stan, men ändå lite för sig självt. Här finns lägenheter med Rocksjöns och Munksjöns rekreationskraft precis utanför fönstret. Bibliotek, museum och Spira likaså. Till servicefunktioner som skola och dagis är det också nära och vill du sedan komplettera med lite stadsshopping är det bara att dra på sig skorna och gå ut. Lägenheterna är varierade i olika storlekar och ska du studera på Jönköpings University finns här ett antal studentlägenheter som bara är \"en promenad över bron\" bort.</p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p><p style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><br></p>",
       "EndPeriodMP": "2021-04-05T23:59:59",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "03fc52ea-3d5a-4c68-bdd6-c33c27a01101",
+      "RowId": "a9436f07-82b1-47aa-b340-a8b297ac9729",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -652,7 +652,7 @@
       "SeekAreaNo": 201,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 5209,
       "RentPerMonth": "5 209",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6081.jpg",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ad45601f-0d45-4305-8bd4-01a24bedaa39",
+      "RowId": "644e65cc-7f0c-4d1b-898b-c96df7e4a190",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ca13c177-dee5-4086-afd7-a4895173ae3c",
+      "RowId": "ad4b3594-d136-40d5-9649-6525dd1c83ed",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "761462ea-c33e-4ebe-ae85-58e1417991d1",
+      "RowId": "5de2ba1c-34cc-4c5f-ae07-83a091b088e0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
