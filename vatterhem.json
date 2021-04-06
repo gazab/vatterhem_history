@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b07a9c5f-7ea3-450d-b959-11e19d93072e",
+      "RowId": "a0fb9708-e734-4883-a50d-6d5181f234df",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8a7b05ad-81eb-4cfa-9add-daf872bf94a2",
+      "RowId": "7128c6cb-6163-4729-8315-5677abc04584",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c6ea5e16-57c5-4ec8-8695-72d58a19be31",
+      "RowId": "bd7480d3-2875-4b0e-8341-30d039b63cfd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8c6fae6b-b7df-45d4-b6b6-289999a3dbbd",
+      "RowId": "1d22342c-df9b-46ea-ac44-5d093638d8fd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bc189cac-156a-4cc2-b82a-55acd470c162",
+      "RowId": "c46ffe2f-bcd5-4cf8-9e31-572b5b3013e8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d269c355-0e2d-463d-a8db-d44d19cb6e0f",
+      "RowId": "05e7b787-c470-4b39-aa4d-8aa739717bac",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "70b931a0-409c-4d45-b9db-1bfde6ad37ef",
+      "RowId": "692c8d36-e16a-4a84-b8a7-79d477b46704",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "911a9b09-c5e5-4910-997b-3a40a941fa5a",
+      "RowId": "936f2a50-ad57-423c-bf85-1d42d33fd6ae",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c8833563-4cbb-4e20-b3d5-0e8a1ade77dd",
+      "RowId": "60033f44-22f4-4208-82db-3a48d713472b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "910fb41c-0ca4-4141-8dd4-a83dd4344519",
+      "RowId": "fffc91e0-37e9-4184-b4e6-bfd774c5f7df",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8ea0bebf-e4cf-4468-ad8b-b81846a72021",
+      "RowId": "0604ebb1-03ff-478a-8753-04d120d57bdf",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "a96ba4d6-bbe0-4f4a-a3b0-65dd0e3c99a2",
+      "RowId": "12323575-c259-4466-88e9-0a468939ef1f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8f203538-9f7b-4c6f-a0e7-4f5b86a2e419",
+      "RowId": "48a2b937-54fe-45f1-b722-499bc404ec98",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c68238b4-018a-4599-a1fd-f529de851969",
+      "RowId": "5cf34ef0-0e09-4c92-be53-189331ca5cc6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1047,7 +1047,7 @@
       "SeekAreaNo": 22,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 7876,
       "RentPerMonth": "7 876",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7208.jpg",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f5864a4b-0e93-48af-afc6-04f272aa89a7",
+      "RowId": "dd9aa754-5bd7-4641-9df3-66f19b3b3f6a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1126,7 +1126,7 @@
       "SeekAreaNo": 22,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 10206,
       "RentPerMonth": "10 206",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7211.jpg",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "471508de-4069-4167-b726-c69709633bb6",
+      "RowId": "653f4e2e-a2c2-4f88-96fd-5ca77bfe7ed3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "21",
@@ -1205,7 +1205,7 @@
       "SeekAreaNo": 18,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 8071,
       "RentPerMonth": "8 071",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7003.jpg",
