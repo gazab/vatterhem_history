@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b101a765-2e10-4792-9426-49aad64a7f48",
+      "RowId": "a354a234-eebc-4b69-888c-f372454b6ead",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "48bf4a8b-924c-4241-9bc4-4204e0ac9202",
+      "RowId": "a6673a3b-b9de-4e3d-81f4-53b735e11e5c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "9fef9d8e-ed7c-458f-bfa4-fdac165edf5f",
+      "RowId": "17c82d0c-bd77-4cda-90b0-18896416b26f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cd030155-4d86-4676-a9e6-1728b1b2dbbb",
+      "RowId": "449789fb-974f-46ba-8478-31088ccb8268",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e7dc8204-fde1-487b-af7e-6532f104312f",
+      "RowId": "e79a40e5-5f76-4fca-96d3-00e8b44003f9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 9123,
       "RentPerMonth": "9 123",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM2031.jpg",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0336cc1e-7d70-4c89-8815-f45a2525a5bc",
+      "RowId": "16277ef0-8c0e-44c8-b582-d01abbf1747b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "caa6727d-2742-4dc1-813c-1acaa80fabde",
+      "RowId": "a4104745-68c8-468a-aaff-c9ab8d429c55",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cd740d3b-1346-443e-b9a1-2c13489f35e8",
+      "RowId": "d62b9f57-b688-4566-851c-27d5a722239b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "b770fc06-4e6a-49cb-8dab-72d08c8ed1ab",
+      "RowId": "ccc2c985-b76e-44b4-a5fb-2f0f0214fbb3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c70bb70e-8371-4274-baa7-868626999f1a",
+      "RowId": "5fe16a7d-80ca-4bb6-9249-7e612e8c8ee9",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 13854,
       "RentPerMonth": "13 854",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ba8afd17-5100-4fbf-9fd4-78d25e6dc386",
+      "RowId": "7db0d3e0-de09-4e0a-ae4d-25a594aa003c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -810,7 +810,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 8653,
       "RentPerMonth": "8 653",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6459.jpg",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d800a2ef-1c70-4136-9b6f-0f4946f0bf2c",
+      "RowId": "fe7246e2-a784-446e-b0b9-475d6d00198f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "d4b0725e-054c-407f-a019-2c1b711e49bc",
+      "RowId": "22488212-d6b9-4a1a-934c-11bc72d9b559",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "ee977b88-854b-4dca-a97a-4c931e8be63b",
+      "RowId": "b8781630-57da-4a65-97af-807b5707245f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1059,7 +1059,7 @@
       "StreetNo": 20,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 50,
+      "CountInterest": 51,
       "FirstInfoTextShort": "<p class=\"MsoNormal\"><span style=\"font-size: large; font-weight: bold;\">Välkommen till Fagerslätt!</span></p><p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Naturen i Hakarp är dramatisk. Mellan de många bergen ligger små gårdar med odlad mark. Det brutna landskapet var ett av skälen till att större delen av Jönköpings kommuns östra del klassades som biosfärområde av Unesco...",
       "FirstInfoText": "<p class=\"MsoNormal\"><span style=\"font-size: large; font-weight: bold;\">Välkommen till Fagerslätt!</span></p><p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Naturen i Hakarp är dramatisk. Mellan de många bergen ligger små gårdar med odlad mark. Det brutna landskapet var ett av skälen till att större delen av Jönköpings kommuns östra del klassades som biosfärområde av Unesco (Vätterbranterna är ett av sju i Sverige – i hela världen finns runt 700).<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Vill man uppleva naturen finns många promenadstråk. Pärlstigen, som utgår från Hakarps kyrkby, ligger närmast. IK Hakarpspojkarnas många leder litet längre bort.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Fagerslätt ligger mellan de äldre bostadsområdena Jutaholm och Egnahem. Det sista just ett\n»egna hems-område«. Dåvarande Husqvarnachefen Wilhelm Tham hörde till de socialt engagerade företagsledarna och stödde de arbetare som vill bygga sina egna hus.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Närmaste centrum med affärer och annan service är Stensholm. <o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Åt andra hållet kommer man snart till Hakarps kyrka. Den är målad i svagt rosa färg.\nDagens kyrka är från 1600-talet. Men innan den uppfördes fanns två andra på samma plats. Den första från 1100-talet. Missa inte takmålningarna av Edvard Orm: de bibliska berättelserna i ett slags serieform. Helvetesskildringen är berömd och lär ha satt skräck i allmogen.</span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Strax bortom kyrkan ligger en annan av socknens större egendomar, Hakarps säteri.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Från Fagerslätt går buss regelbundet till Huskvarna och Jönköping. Förskola finns i själva området. Än fler skolor i närheten.<span style=\"font-size: 12pt;\"><o:p></o:p></span></span></b></p>",
       "EndPeriodMP": "2021-04-11T23:59:59",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4836a53c-f45e-4aea-834f-091e3de48e30",
+      "RowId": "6dacdb4f-7fa8-4cd6-9b0b-cf3e7e0d42b2",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1126,7 +1126,7 @@
       "SeekAreaNo": 22,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 10206,
       "RentPerMonth": "10 206",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7211.jpg",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "47ae8ca8-0fdb-4635-ba2e-10a6b6b35fce",
+      "RowId": "95d0ac91-3b67-4f41-8431-2820d8bf9515",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
