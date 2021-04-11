@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "945df207-6192-4b6f-9ff2-959104261d0b",
+      "RowId": "0651faf0-7332-447d-9821-bd49911b02f4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "756e94be-bc59-4824-b295-18ad65c7ce0b",
+      "RowId": "6af6095d-d032-4272-b433-8fafdfcb2a7b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0b07b4ee-e165-4c9f-b09a-ff5d3a31d452",
+      "RowId": "4f6c4110-b0cf-450a-a981-91a7200e09d7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f82734b4-c78f-4bf9-8b48-3a75bcfb6c31",
+      "RowId": "8835d892-b09d-484b-bef4-0d5d5bab2a53",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "db21bdff-1786-4848-880b-7926a54cc097",
+      "RowId": "e481f122-8c1a-4156-8cca-3273bee997d4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "4f54a260-0c99-4ef0-a991-8cd5a1e85b30",
+      "RowId": "c680d58e-6831-43a7-b28e-94179eb55f3d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "32996efd-a3e3-4639-9b61-9db30110148f",
+      "RowId": "3a393246-d587-4754-b508-34396685f0fa",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cb439a6a-40ef-4ca2-bf50-496546af9938",
+      "RowId": "76f69c20-19da-488e-ab61-5fbb9668b501",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -573,7 +573,7 @@
       "SeekAreaNo": 113,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 9410,
       "RentPerMonth": "9 410",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1623.jpg",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "47572c5f-2f30-4109-82aa-aa5756c777a1",
+      "RowId": "66a78e94-6ac3-45bb-ac21-25e89fcd4e7d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "15",
@@ -652,7 +652,7 @@
       "SeekAreaNo": 31,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 5,
+      "PropertyNo": 1,
       "RentPerMonthSort": 7627,
       "RentPerMonth": "7 627",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6866.jpg",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e8c4a2f9-89c5-4df4-a9fc-1994901c0104",
+      "RowId": "856794f7-8827-4a31-9ebb-5e0e8759d8cd",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -793,7 +793,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fa7d0e6a-340e-4be7-abf3-99fb47547119",
+      "RowId": "65e5a1ff-f852-4bf1-ab5d-60b6a5fa7acf",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -872,7 +872,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "0eb4f271-0a6f-4f45-8abb-11c7bb003fd7",
+      "RowId": "118b8f38-0b54-4455-a42e-71afa1598d3c",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -951,7 +951,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "1d820f2f-5145-4b88-9d8a-9ba4ddb2170f",
+      "RowId": "d5f9a4c5-27ce-4835-a0a2-422651c0b3b1",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -1030,7 +1030,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "bb4c8751-12a7-4140-a183-86dcaea84cb8",
+      "RowId": "9d61dce6-af8d-4d86-80c1-94220913c8ad",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1047,7 +1047,7 @@
       "SeekAreaNo": 22,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 7876,
       "RentPerMonth": "7 876",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7208.jpg",
@@ -1109,7 +1109,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "8cfc805a-4b00-4674-913a-85989e764a39",
+      "RowId": "792ff196-d52f-4bf0-a8cf-6da569bd81e6",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
@@ -1138,7 +1138,7 @@
       "StreetNo": 5,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 76,
+      "CountInterest": 77,
       "FirstInfoTextShort": "<p class=\"MsoNormal\"><span style=\"font-size: large; font-weight: bold;\">Välkommen till Fagerslätt!</span></p><p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Naturen i Hakarp är dramatisk. Mellan de många bergen ligger små gårdar med odlad mark. Det brutna landskapet var ett av skälen till att större delen av Jönköpings kommuns östra del klassades som biosfärområde av Unesco...",
       "FirstInfoText": "<p class=\"MsoNormal\"><span style=\"font-size: large; font-weight: bold;\">Välkommen till Fagerslätt!</span></p><p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Naturen i Hakarp är dramatisk. Mellan de många bergen ligger små gårdar med odlad mark. Det brutna landskapet var ett av skälen till att större delen av Jönköpings kommuns östra del klassades som biosfärområde av Unesco (Vätterbranterna är ett av sju i Sverige – i hela världen finns runt 700).<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Vill man uppleva naturen finns många promenadstråk. Pärlstigen, som utgår från Hakarps kyrkby, ligger närmast. IK Hakarpspojkarnas många leder litet längre bort.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Fagerslätt ligger mellan de äldre bostadsområdena Jutaholm och Egnahem. Det sista just ett\n»egna hems-område«. Dåvarande Husqvarnachefen Wilhelm Tham hörde till de socialt engagerade företagsledarna och stödde de arbetare som vill bygga sina egna hus.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Närmaste centrum med affärer och annan service är Stensholm. <o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Åt andra hållet kommer man snart till Hakarps kyrka. Den är målad i svagt rosa färg.\nDagens kyrka är från 1600-talet. Men innan den uppfördes fanns två andra på samma plats. Den första från 1100-talet. Missa inte takmålningarna av Edvard Orm: de bibliska berättelserna i ett slags serieform. Helvetesskildringen är berömd och lär ha satt skräck i allmogen.</span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Strax bortom kyrkan ligger en annan av socknens större egendomar, Hakarps säteri.<o:p></o:p></span></b></p>\n\n<p class=\"MsoNormal\"><b><span style=\"line-height: 120%;\">Från Fagerslätt går buss regelbundet till Huskvarna och Jönköping. Förskola finns i själva området. Än fler skolor i närheten.<span style=\"font-size: 12pt;\"><o:p></o:p></span></span></b></p>",
       "EndPeriodMP": "2021-04-11T23:59:59",
@@ -1188,7 +1188,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "39323ec2-4bba-4b6d-8089-7211038f6710",
+      "RowId": "a806731f-00b4-47c1-abd4-4352d9322470",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "18",
