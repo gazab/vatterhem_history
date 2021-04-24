@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c54c7d70-3d56-4a3f-bf84-01fbb3642c75",
+      "RowId": "fea9fabf-73c2-4256-a25c-18b11eda3a5b",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "37778314-1083-4262-a225-44c81da0cae2",
+      "RowId": "3b78e7d0-a1b7-4045-b4d2-b37565e049a0",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2be23832-7298-4356-ada1-491488f1ddfe",
+      "RowId": "7ea2362b-13d3-4535-98c5-b2817966ae75",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "2979579d-05c1-4934-b009-78fa762cb97a",
+      "RowId": "99351741-4432-434a-9b96-8b45917357f5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "3c3f8d06-d6cb-488b-926c-0736e0946ade",
+      "RowId": "d4bdfa39-5175-4b5a-a4a3-4b528d69ba9f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 115,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 5654,
       "RentPerMonth": "5 654",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1505.jpg",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "c90b8fbe-0f3b-44a3-9ad5-038cdfab78f7",
+      "RowId": "59f304de-68ee-4b41-979d-3e44443527e8",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f10acdc8-94c7-483d-a199-25c67ce51d73",
+      "RowId": "48db0727-b2ed-4517-ab9d-0f61c3d1d2f7",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "52d0eda2-a84b-4680-96ce-6a5fdee34234",
+      "RowId": "a95039ad-e6dc-4639-80f2-e61b9d5fef9d",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "5471e7d8-5a1c-4292-9a58-5d88fc93708a",
+      "RowId": "2197048a-748f-4f59-86a1-d5e10a7c7d5a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "fcf0a74d-f070-47dc-ab68-b2d5c1b05bdb",
+      "RowId": "11ccba0e-dd11-4520-9378-9346cd2f3911",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -731,7 +731,7 @@
       "SeekAreaNo": 15,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 9,
+      "PropertyNo": 1,
       "RentPerMonthSort": 7855,
       "RentPerMonth": "7 855",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6857.jpg",
