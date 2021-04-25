@@ -3,7 +3,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e3a25982-b431-4b58-82c6-26257b92defe",
+      "RowId": "f0cd22a1-7ebd-4472-ad81-146b72edf1d4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "11",
@@ -20,7 +20,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 4,
       "RentPerMonthSort": 4792,
       "RentPerMonth": "4 792",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -82,7 +82,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "21b2062a-811a-4f1b-a5e0-37f5bbabbbc9",
+      "RowId": "909bb837-1b1b-4600-8d3d-6c4a9f6b251a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -161,7 +161,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "18e9f893-50cf-49a9-a28c-6a65bdbfc9a9",
+      "RowId": "acab43a9-ae2c-4666-9cae-23e9bb27e099",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -240,7 +240,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "6e83cc28-0a6a-4f2b-a57f-777c6bc7c8af",
+      "RowId": "9916bbbe-6ecb-4b22-a4cf-0224195c50f4",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "12",
@@ -269,7 +269,7 @@
       "StreetNo": 14,
       "StreetChar": "B",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 131,
+      "CountInterest": 132,
       "FirstInfoTextShort": "Lägenheten är uppdaterad med individuell ventilation under 2016. Detta \nsäkerställer rätt luftmängd och ett bättre inomhusklimat. Aggregatet är \nplacerat över spis i kök. <br>",
       "FirstInfoText": "Lägenheten är uppdaterad med individuell ventilation under 2016. Detta \nsäkerställer rätt luftmängd och ett bättre inomhusklimat. Aggregatet är \nplacerat över spis i kök. <br>",
       "EndPeriodMP": "2021-04-28T23:59:59",
@@ -319,7 +319,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "f8283054-64fb-41cb-9d57-bc997b773a37",
+      "RowId": "c2f88324-642b-47b6-976a-0381906910a3",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "13",
@@ -336,7 +336,7 @@
       "SeekAreaNo": 115,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 1,
+      "PropertyNo": 9,
       "RentPerMonthSort": 5654,
       "RentPerMonth": "5 654",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM1505.jpg",
@@ -398,7 +398,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "67b9f2d8-8338-4285-951c-ffd7409b508d",
+      "RowId": "8af0aef7-d83f-4a2c-a59c-8e6553e5ed3f",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "14",
@@ -477,7 +477,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "441f4306-e701-4b43-9c78-0e388fb5407f",
+      "RowId": "710d7d97-5b11-4908-b1a1-91611c48bf5a",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "16",
@@ -556,7 +556,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "cf72bf53-881e-4878-a943-e6f807f504af",
+      "RowId": "66cbc97d-52d4-4503-945b-34209d2a74ed",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "17",
@@ -635,7 +635,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "e1d02ae0-40e6-41a9-987c-876ba6ac4a4c",
+      "RowId": "fc2915e6-3f01-461a-b483-7b6cbc5659ad",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
@@ -714,7 +714,7 @@
     {
       "ObjectMainGroupDescription": null,
       "ObjectSubGroupDescription": null,
-      "RowId": "80c602c5-efea-4f6e-88fb-3455227c97c5",
+      "RowId": "c0845929-caad-41b5-a75a-1071548c93a5",
       "SyndicateNo": 1,
       "CompanyNo": 1,
       "AreaNo": "19",
