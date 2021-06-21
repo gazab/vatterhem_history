@@ -19,7 +19,7 @@
       "SeekAreaNo": 12,
       "MarketPlaceNo": 120,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 4996,
       "RentPerMonth": "4 996",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6821.jpg",
@@ -65,7 +65,17 @@
       "SellerNote": "",
       "Properties": "1,4",
       "HouseForms": "0",
-      "ObjectTags": [],
+      "ObjectTags": [
+        {
+          "TagNo": 30,
+          "CompanyNo": 1,
+          "ObjectNo": "11-063-05-0059",
+          "TagText": "Lägenheten visas ej.  Snabb inflyttning.",
+          "TagTextEng": "",
+          "TagBackgroundColor": "#1fa155",
+          "TagTextColor": "#ffffff"
+        }
+      ],
       "GroundRent": ""
     },
     {
@@ -243,7 +253,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 8123,
       "RentPerMonth": "8 123",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6971.jpg",
@@ -321,7 +331,7 @@
       "SeekAreaNo": 16,
       "MarketPlaceNo": 107,
       "HouseFormNo": null,
-      "PropertyNo": 4,
+      "PropertyNo": 1,
       "RentPerMonthSort": 10070,
       "RentPerMonth": "10 070",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM7151.jpg",
