@@ -18,8 +18,8 @@
       "ObjectFloor": "3  ",
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
-      "HouseFormNo": null,
-      "PropertyNo": 9,
+      "HouseFormNo": 0,
+      "PropertyNo": 0,
       "RentPerMonthSort": 6079,
       "RentPerMonth": "6 079",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6100.jpg",
@@ -31,7 +31,7 @@
       "StreetNo": 5,
       "StreetChar": "A",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 199,
+      "CountInterest": 201,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2021-09-09T23:59:59",
@@ -54,7 +54,7 @@
       "StatusDescriptionClient": "Info & intresseanm",
       "UseFilter": 0,
       "SyndicateHouseFormDescriptionGrouped": null,
-      "SyndicatePropertyDescriptionGrouped": " Balkong",
+      "SyndicatePropertyDescriptionGrouped": "Balkong",
       "MapUrl": "https://www.google.com/maps/search/?api=1&query=Birger Jarlsgatan+5+55463+Jönköping",
       "QueueCutShow": 1,
       "Street": "Birger Jarlsgatan 5 A",
@@ -64,7 +64,7 @@
       "RankUpInSearchResult": false,
       "SellerNote": "",
       "Properties": "9",
-      "HouseForms": "0",
+      "HouseForms": null,
       "ObjectTags": [
         {
           "TagNo": 24,
@@ -76,7 +76,13 @@
           "TagTextColor": "#ffffff"
         }
       ],
-      "GroundRent": ""
+      "GroundRent": "",
+      "StatusNo": 2,
+      "StatusCode": "INTEREST",
+      "StatusDescription": "Intresse",
+      "ProjectNo": "",
+      "EstateNo": "1201",
+      "PostCode": 55463
     },
     {
       "ObjectMainGroupDescription": null,
@@ -96,8 +102,8 @@
       "ObjectFloor": "3  ",
       "SeekAreaNo": 14,
       "MarketPlaceNo": 107,
-      "HouseFormNo": null,
-      "PropertyNo": 9,
+      "HouseFormNo": 0,
+      "PropertyNo": 0,
       "RentPerMonthSort": 3536,
       "RentPerMonth": "3 536",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6107.jpg",
@@ -109,7 +115,7 @@
       "StreetNo": 27,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 149,
+      "CountInterest": 153,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2021-09-09T23:59:59",
@@ -132,7 +138,7 @@
       "StatusDescriptionClient": "Info & intresseanm",
       "UseFilter": 0,
       "SyndicateHouseFormDescriptionGrouped": null,
-      "SyndicatePropertyDescriptionGrouped": " Balkong",
+      "SyndicatePropertyDescriptionGrouped": "Balkong",
       "MapUrl": "https://www.google.com/maps/search/?api=1&query=Duvgatan+27+55464+Jönköping",
       "QueueCutShow": 1,
       "Street": "Duvgatan 27",
@@ -142,7 +148,7 @@
       "RankUpInSearchResult": false,
       "SellerNote": "",
       "Properties": "9",
-      "HouseForms": "0",
+      "HouseForms": null,
       "ObjectTags": [
         {
           "TagNo": 24,
@@ -154,7 +160,13 @@
           "TagTextColor": "#ffffff"
         }
       ],
-      "GroundRent": ""
+      "GroundRent": "",
+      "StatusNo": 2,
+      "StatusCode": "INTEREST",
+      "StatusDescription": "Intresse",
+      "ProjectNo": "",
+      "EstateNo": "1202",
+      "PostCode": 55464
     },
     {
       "ObjectMainGroupDescription": null,
@@ -174,8 +186,8 @@
       "ObjectFloor": "2 h",
       "SeekAreaNo": 201,
       "MarketPlaceNo": 107,
-      "HouseFormNo": null,
-      "PropertyNo": 4,
+      "HouseFormNo": 0,
+      "PropertyNo": 0,
       "RentPerMonthSort": 6164,
       "RentPerMonth": "6 164",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6026.jpg",
@@ -187,7 +199,7 @@
       "StreetNo": 115,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 164,
+      "CountInterest": 167,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><b>Välkommen till Öxnehaga</b><o:p></o:p></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </p>",
       "EndPeriodMP": "2021-09-07T23:59:59",
@@ -210,7 +222,7 @@
       "StatusDescriptionClient": "Info & intresseanm",
       "UseFilter": 0,
       "SyndicateHouseFormDescriptionGrouped": null,
-      "SyndicatePropertyDescriptionGrouped": " Inglasad balkong",
+      "SyndicatePropertyDescriptionGrouped": "Inglasad balkong",
       "MapUrl": "https://www.google.com/maps/search/?api=1&query=Kohagsgatan+115+56149+Huskvarna",
       "QueueCutShow": 1,
       "Street": "Kohagsgatan 115",
@@ -220,7 +232,7 @@
       "RankUpInSearchResult": false,
       "SellerNote": "",
       "Properties": "4",
-      "HouseForms": "0",
+      "HouseForms": null,
       "ObjectTags": [
         {
           "TagNo": 24,
@@ -232,7 +244,13 @@
           "TagTextColor": "#ffffff"
         }
       ],
-      "GroundRent": ""
+      "GroundRent": "",
+      "StatusNo": 2,
+      "StatusCode": "INTEREST",
+      "StatusDescription": "Intresse",
+      "ProjectNo": "",
+      "EstateNo": "17410",
+      "PostCode": 56149
     },
     {
       "ObjectMainGroupDescription": null,
@@ -252,8 +270,8 @@
       "ObjectFloor": "09 ",
       "SeekAreaNo": 201,
       "MarketPlaceNo": 107,
-      "HouseFormNo": null,
-      "PropertyNo": 1,
+      "HouseFormNo": 0,
+      "PropertyNo": 0,
       "RentPerMonthSort": 6042,
       "RentPerMonth": "6 042",
       "FirstEstateImageUrl": "/vatterhem/files/jpg/thumbs/thumbM6096.jpg",
@@ -288,7 +306,7 @@
       "StatusDescriptionClient": "Info & intresseanm",
       "UseFilter": 0,
       "SyndicateHouseFormDescriptionGrouped": null,
-      "SyndicatePropertyDescriptionGrouped": " Hiss , Inglasad balkong",
+      "SyndicatePropertyDescriptionGrouped": "Hiss, Inglasad balkong",
       "MapUrl": "https://www.google.com/maps/search/?api=1&query=Oxhagsgatan+75+56150+Huskvarna",
       "QueueCutShow": 1,
       "Street": "Oxhagsgatan 75",
@@ -298,7 +316,7 @@
       "RankUpInSearchResult": false,
       "SellerNote": "",
       "Properties": "1,4",
-      "HouseForms": "0",
+      "HouseForms": null,
       "ObjectTags": [
         {
           "TagNo": 24,
@@ -310,7 +328,13 @@
           "TagTextColor": "#ffffff"
         }
       ],
-      "GroundRent": ""
+      "GroundRent": "",
+      "StatusNo": 2,
+      "StatusCode": "INTEREST",
+      "StatusDescription": "Intresse",
+      "ProjectNo": "",
+      "EstateNo": "17423",
+      "PostCode": 56150
     }
   ],
   "TotalCount": 4,
