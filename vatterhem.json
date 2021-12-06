@@ -435,7 +435,17 @@
       "SellerNote": "",
       "Properties": "9",
       "HouseForms": null,
-      "ObjectTags": [],
+      "ObjectTags": [
+        {
+          "TagNo": 22,
+          "CompanyNo": 1,
+          "ObjectNo": "12-014-03-0027",
+          "TagText": "Snar inflyttning",
+          "TagTextEng": "",
+          "TagBackgroundColor": "#a8264a",
+          "TagTextColor": "#ffffff"
+        }
+      ],
       "GroundRent": "",
       "StatusNo": 1,
       "StatusCode": "PROPOSAL",
