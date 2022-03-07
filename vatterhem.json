@@ -327,7 +327,7 @@
       "StreetNo": 40,
       "StreetChar": "B",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 469,
+      "CountInterest": 470,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2022-03-08T23:59:59",
@@ -549,7 +549,7 @@
       "StreetNo": 12,
       "StreetChar": "B",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 72,
+      "CountInterest": 75,
       "FirstInfoTextShort": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund...",
       "FirstInfoText": "<div><span style=\"font-weight: bold;\">Välkommen till Centrum öster</span></div><div>Centralt. Mitt i.Och ändå med så mycket egen karaktär. Smedjegatans bebyggelse som tar dig via Hovrättstorget till Östra torget ger en blick av det gamla Jönköping. Lägenheterna finns också på Södra Strandgatan. Varierade lägenheter för dig som vill ta del av hela stadens utbud. Och ändå kunna slappna av en stund på en skön innegård, eller ta en promenad runt Munksjön och Vätterstranden. Bibliotek, museum, Spira, resturanger, affärer och butiker är bara lite av det som erbjuds precis utanför dörren. Bara att ta på dig jackan och ta del av staden.<br></div><div><br></div><div><br></div><div> </div>",
       "EndPeriodMP": "2022-03-13T23:59:59",
@@ -1417,17 +1417,7 @@
       "SellerNote": "",
       "Properties": "1,9",
       "HouseForms": null,
-      "ObjectTags": [
-        {
-          "TagNo": 4,
-          "CompanyNo": 1,
-          "ObjectNo": "21-005-02-0017",
-          "TagText": "Nyproduktion - Lägenheten visas ej",
-          "TagTextEng": "",
-          "TagBackgroundColor": "#2696a8",
-          "TagTextColor": "#ffffff"
-        }
-      ],
+      "ObjectTags": [],
       "GroundRent": "",
       "StatusNo": 1,
       "StatusCode": "PROPOSAL",
