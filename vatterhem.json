@@ -411,7 +411,7 @@
       "StreetNo": 2,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 80,
+      "CountInterest": 81,
       "FirstInfoTextShort": "<div class=\"eng\" style=\"box-sizing: border-box; color: rgb(153, 153, 153); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\"><br></div>",
       "FirstInfoText": "<div class=\"eng\" style=\"box-sizing: border-box; color: rgb(153, 153, 153); font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif; font-size: 13px; background-color: rgb(255, 255, 255);\"><br></div>",
       "EndPeriodMP": "2022-11-17T23:59:59",
