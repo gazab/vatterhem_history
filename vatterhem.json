@@ -65,7 +65,17 @@
       "SellerNote": "",
       "Properties": "1",
       "HouseForms": null,
-      "ObjectTags": [],
+      "ObjectTags": [
+        {
+          "TagNo": 22,
+          "CompanyNo": 1,
+          "ObjectNo": "11-073-04-0011",
+          "TagText": "Snabb inflyttning",
+          "TagTextEng": "",
+          "TagBackgroundColor": "#a8264a",
+          "TagTextColor": "#ffffff"
+        }
+      ],
       "GroundRent": "",
       "StatusNo": 1,
       "StatusCode": "PROPOSAL",
@@ -139,7 +149,17 @@
       "SellerNote": "",
       "Properties": "1,4",
       "HouseForms": null,
-      "ObjectTags": [],
+      "ObjectTags": [
+        {
+          "TagNo": 22,
+          "CompanyNo": 1,
+          "ObjectNo": "11-076-02-0080",
+          "TagText": "Snabb inflyttning",
+          "TagTextEng": "",
+          "TagBackgroundColor": "#a8264a",
+          "TagTextColor": "#ffffff"
+        }
+      ],
       "GroundRent": "",
       "StatusNo": 1,
       "StatusCode": "PROPOSAL",
@@ -697,7 +717,7 @@
       "StreetNo": 4,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 35,
+      "CountInterest": 37,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar....",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><b>Välkommen till Österängen<br></b>Nära till naturen. Nära till staden. Eller rättare sagt städerna, för från Österängen är det lika nära till Jönköping som till Huskvarna. En kombination av det bästa. I både stora och små hus, gamla och nya fastigheter, hittar du här lägenheter i alla storlekar. Alltid med direkt närhet till gröna miljöer kring husen. Ofta med fin utsikt som standard. Oavsett var i livet du befinner dig är det enkelt att hitta hem här. Goda kommunikationer och ett lokalt centrum med modern service, affärer och butiker gör boendet på Österängen komplett.</p><p class=\"MsoNormal\" style=\"margin-top:5.0pt;margin-right:0cm;margin-bottom:5.0pt;\nmargin-left:0cm\"><o:p></o:p></p>",
       "EndPeriodMP": "2022-12-04T23:59:59",
@@ -771,7 +791,7 @@
       "StreetNo": 16,
       "StreetChar": "A",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 92,
+      "CountInterest": 93,
       "FirstInfoTextShort": "Lägenheten är uppdaterad med individuell ventilation under 2016.Detta \nsäkerställer rätt luftmängd och ett bättre inomhusklimat. Aggregatet är \nplacerat över spis i kök.",
       "FirstInfoText": "Lägenheten är uppdaterad med individuell ventilation under 2016.Detta \nsäkerställer rätt luftmängd och ett bättre inomhusklimat. Aggregatet är \nplacerat över spis i kök.",
       "EndPeriodMP": "2022-12-01T23:59:59",
@@ -1003,7 +1023,7 @@
       "StreetNo": 101,
       "StreetChar": "",
       "MarketPlaceDescription": "Torget",
-      "CountInterest": 67,
+      "CountInterest": 68,
       "FirstInfoTextShort": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-size: small; font-weight: bold;\">Välkommen till Öxnehaga<o:p></o:p></span></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-size: small; font-weight: bold;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i...",
       "FirstInfoText": "<p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-size: small; font-weight: bold;\">Välkommen till Öxnehaga<o:p></o:p></span></p><p class=\"MsoNormal\" style=\"margin: 5pt 0cm;\"><span style=\"font-size: small; font-weight: bold;\">Vätterns vackra vyer för ögonen, Bondberget och Öxnegårdens rekreationskraft i ryggen. Öxnehaga är både stad och natur. Här finns boende för alla, lägenheter i stort och smått, oavsett var du befinner dig i livet. Från barnens generösa lekytor till trygghetsboendets lugn och ro. Goda kommunikationer, god samhällelig service och affärsutbud gör Öxnehaga till ett område där du och familjen får utrymme att växa. </span></p>",
       "EndPeriodMP": "2022-11-29T23:59:59",
